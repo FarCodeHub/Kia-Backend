@@ -10,9 +10,9 @@ namespace Infrastructure.Utilities
         {
             public static string CreateMd5Hash(string input)
             {
-                var md5 = System.Security.Cryptography.MD5.Create();
+                var hashProvider1 = new MD5CryptoServiceProvider();
                 var inputBytes = System.Text.Encoding.ASCII.GetBytes(input);
-                var hashBytes = md5.ComputeHash(inputBytes);
+                var hashBytes = hashProvider1.ComputeHash(inputBytes);
 
                 var sb = new StringBuilder();
                 foreach (var t in hashBytes)

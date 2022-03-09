@@ -2,12 +2,12 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-
+using System.Security.Cryptography;
 namespace Infrastructure.Models
 {
     public class ValuesProvider : IValuesProvider
     {
-        private static readonly Random Random = new Random();
+        private static readonly RandomNumberGenerator Random = RandomNumberGenerator.Create();
         private static readonly IDictionary<int, string> Data = new ConcurrentDictionary<int, string>();
 
         public async Task<string> GetAsync(int id)
@@ -23,7 +23,10 @@ namespace Infrastructure.Models
 
         public async Task<int> InsertAsync(string value)
         {
-            int key = Random.Next();
+            byte[] data = new byte[16];
+            Random.GetBytes(data);
+            BitConverter.ToInt32(data);
+            int key = BitConverter.ToInt32(data);
             Data[key] = value;
             return await Task.FromResult(key);
         }

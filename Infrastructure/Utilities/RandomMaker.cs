@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Security.Cryptography;
 namespace Infrastructure.Utilities
 {
     public static class RandomMaker
@@ -8,11 +8,16 @@ namespace Infrastructure.Utilities
         {
             const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
             var stringChars = new char[8];
-            var random = new Random(DateTime.Now.Millisecond);
-
+         
+            
             for (var i = 0; i < stringChars.Length; i++)
             {
-                stringChars[i] = chars[random.Next(chars.Length)];
+
+                var randomGenerator = RandomNumberGenerator.Create(); // Compliant for security-sensitive use cases
+                byte[] data = new byte[16];
+                randomGenerator.GetBytes(data);
+                stringChars[i] = BitConverter.ToChar(data);
+
             }
 
             var finalString = "-" +  new string(stringChars);
@@ -24,5 +29,6 @@ namespace Infrastructure.Utilities
 
             return finalString;
         }
+
     }
 }

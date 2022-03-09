@@ -159,7 +159,7 @@ namespace Infrastructure.Configurations
                 //        .AllowCredentials();
                 //}
 
-                builder.AllowAnyOrigin();
+              //  builder.AllowAnyOrigin();
 
                 if (Convert.ToBoolean(_configurationAccessor.GetCorsConfiguration().AllowAnyMethod))
                     builder.AllowAnyMethod();
