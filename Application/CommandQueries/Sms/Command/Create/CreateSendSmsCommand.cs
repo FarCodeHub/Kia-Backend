@@ -17,10 +17,8 @@ using Infrastructure.Interfaces;
 using Infrastructure.Models;
 using Infrastructure.Utilities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Office.Interop.Excel;
 using SmsIrRestful;
-using Range = Microsoft.Office.Interop.Excel.Range;
-using Excel = Microsoft.Office.Interop.Excel;
+ 
 
 namespace Application.CommandQueries.Sms.Command.Create
 {
@@ -77,19 +75,19 @@ namespace Application.CommandQueries.Sms.Command.Create
             {
                 var sourcePath = Path.Combine(_configurationAccessor.GetIoPaths().Root, request.FileAttachmentReletiveaddress.Remove(0, 7));
                 sourcePath = sourcePath.Replace('/', '\\');
-                var excel = new Excel.Application { Visible = false, DisplayAlerts = false };
+                var excel = "";// new Excel.Application { Visible = false, DisplayAlerts = false };
 
                 var p = Directory.GetCurrentDirectory();
                 var h = Path.Combine(p, sourcePath);
-                var workBook = excel.Workbooks.Open(h, 0, true, 5, "", "", true, XlPlatform.xlWindows, "\t", false, false, 0, true, 1, 0);
-                var workSheet = (Worksheet)workBook.Sheets[1];
+                //var workBook = excel.Workbooks.Open(h, 0, true, 5, "", "", true, XlPlatform.xlWindows, "\t", false, false, 0, true, 1, 0);
+                //var workSheet = (Worksheet)workBook.Sheets[1];
 
-                var cellRange = workSheet.UsedRange;
-                for (var i = 1; i <= cellRange.Rows.Count; i++)
-                {
-                    var cellRangetemp = ((Range)cellRange.Cells[i, 1]).Value;
+                var cellRange = "";//workSheet.UsedRange;
+                                   //for (var i = 1; i <= cellRange.Rows.Count; i++)
+                                   //{
+                var cellRangetemp = "";// ((Range)cellRange.Cells[i, 1]).Value;
                     numbers.Add(cellRangetemp.ToString());
-                }
+               // }
             }
             else
             {
@@ -146,5 +144,7 @@ namespace Application.CommandQueries.Sms.Command.Create
 
             return 0;
         }
+    
+    
     }
 }
