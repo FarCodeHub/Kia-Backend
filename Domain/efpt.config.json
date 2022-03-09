@@ -1,0 +1,38 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "KiaautomationContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities\/reverse",
+   "ProjectRootNamespace": "Domain",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[CensusesSp]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "WIN-SMV78T4SNO4.KiaAutomation",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": true,
+   "UseInflector": true,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": true,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": true
+}

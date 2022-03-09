@@ -1,0 +1,1867 @@
+2021-12-08 13:41:00.8067 Info Message Template Auto Format enabled
+2021-12-08 13:41:00.8208 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 13:41:00.8441 Info Adding target FileTarget(Name=info)
+2021-12-08 13:41:00.8441 Info Adding target FileTarget(Name=detail)
+2021-12-08 13:41:00.8441 Info Adding target FileTarget(Name=error)
+2021-12-08 13:41:00.8600 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 13:41:00.8717 Info Configuration initialized.
+2021-12-08 13:41:00.8717 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 13:47:08.0166 Info Message Template Auto Format enabled
+2021-12-08 13:47:08.0285 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 13:47:08.0529 Info Adding target FileTarget(Name=info)
+2021-12-08 13:47:08.0529 Info Adding target FileTarget(Name=detail)
+2021-12-08 13:47:08.0529 Info Adding target FileTarget(Name=error)
+2021-12-08 13:47:08.0668 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 13:47:08.0759 Info Configuration initialized.
+2021-12-08 13:47:08.0759 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 13:53:33.2867 Info Message Template Auto Format enabled
+2021-12-08 13:53:33.2991 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 13:53:33.3283 Info Adding target FileTarget(Name=info)
+2021-12-08 13:53:33.3283 Info Adding target FileTarget(Name=detail)
+2021-12-08 13:53:33.3283 Info Adding target FileTarget(Name=error)
+2021-12-08 13:53:33.3485 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 13:53:33.3597 Info Configuration initialized.
+2021-12-08 13:53:33.3597 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 13:54:01.4416 Info Message Template Auto Format enabled
+2021-12-08 13:54:01.4514 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 13:54:01.4750 Info Adding target FileTarget(Name=info)
+2021-12-08 13:54:01.4750 Info Adding target FileTarget(Name=detail)
+2021-12-08 13:54:01.4750 Info Adding target FileTarget(Name=error)
+2021-12-08 13:54:01.4885 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 13:54:01.4969 Info Configuration initialized.
+2021-12-08 13:54:01.4969 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:01:11.3868 Info Message Template Auto Format enabled
+2021-12-08 17:01:11.4017 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:01:11.4275 Info Adding target FileTarget(Name=info)
+2021-12-08 17:01:11.4275 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:01:11.4275 Info Adding target FileTarget(Name=error)
+2021-12-08 17:01:11.4423 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:01:11.4507 Info Configuration initialized.
+2021-12-08 17:01:11.4507 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:05:11.3454 Info Message Template Auto Format enabled
+2021-12-08 17:05:11.3563 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:05:11.3854 Info Adding target FileTarget(Name=info)
+2021-12-08 17:05:11.3854 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:05:11.3854 Info Adding target FileTarget(Name=error)
+2021-12-08 17:05:11.3999 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:05:11.4106 Info Configuration initialized.
+2021-12-08 17:05:11.4106 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:11:11.3605 Info Message Template Auto Format enabled
+2021-12-08 17:11:11.3830 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:11:11.4074 Info Adding target FileTarget(Name=info)
+2021-12-08 17:11:11.4074 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:11:11.4074 Info Adding target FileTarget(Name=error)
+2021-12-08 17:11:11.4238 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:11:11.4344 Info Configuration initialized.
+2021-12-08 17:11:11.4344 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:15:44.7828 Info Message Template Auto Format enabled
+2021-12-08 17:15:44.7942 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:15:44.8253 Info Adding target FileTarget(Name=info)
+2021-12-08 17:15:44.8253 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:15:44.8253 Info Adding target FileTarget(Name=error)
+2021-12-08 17:15:44.8437 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:15:44.8437 Info Configuration initialized.
+2021-12-08 17:15:44.8550 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:17:44.7403 Info Message Template Auto Format enabled
+2021-12-08 17:17:44.7609 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:17:44.7861 Info Adding target FileTarget(Name=info)
+2021-12-08 17:17:44.7861 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:17:44.7861 Info Adding target FileTarget(Name=error)
+2021-12-08 17:17:44.8011 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:17:44.8108 Info Configuration initialized.
+2021-12-08 17:17:44.8108 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:29:17.8318 Info Message Template Auto Format enabled
+2021-12-08 17:29:17.8419 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:29:17.8640 Info Adding target FileTarget(Name=info)
+2021-12-08 17:29:17.8640 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:29:17.8640 Info Adding target FileTarget(Name=error)
+2021-12-08 17:29:17.8767 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:29:17.8767 Info Configuration initialized.
+2021-12-08 17:29:17.8767 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:32:10.9766 Info Message Template Auto Format enabled
+2021-12-08 17:32:10.9870 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:32:11.0149 Info Adding target FileTarget(Name=info)
+2021-12-08 17:32:11.0149 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:32:11.0149 Info Adding target FileTarget(Name=error)
+2021-12-08 17:32:11.0284 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:32:11.0284 Info Configuration initialized.
+2021-12-08 17:32:11.0284 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:32:34.3835 Info Message Template Auto Format enabled
+2021-12-08 17:32:34.3938 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:32:34.4234 Info Adding target FileTarget(Name=info)
+2021-12-08 17:32:34.4234 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:32:34.4234 Info Adding target FileTarget(Name=error)
+2021-12-08 17:32:34.4370 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:32:34.4370 Info Configuration initialized.
+2021-12-08 17:32:34.4370 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:36:44.3013 Info Message Template Auto Format enabled
+2021-12-08 17:36:44.3111 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:36:44.3346 Info Adding target FileTarget(Name=info)
+2021-12-08 17:36:44.3346 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:36:44.3346 Info Adding target FileTarget(Name=error)
+2021-12-08 17:36:44.3492 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:36:44.3583 Info Configuration initialized.
+2021-12-08 17:36:44.3583 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:40:59.7780 Info Message Template Auto Format enabled
+2021-12-08 17:40:59.7780 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:40:59.8129 Info Adding target FileTarget(Name=info)
+2021-12-08 17:40:59.8129 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:40:59.8129 Info Adding target FileTarget(Name=error)
+2021-12-08 17:40:59.8268 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:40:59.8268 Info Configuration initialized.
+2021-12-08 17:40:59.8268 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:42:43.2444 Info Message Template Auto Format enabled
+2021-12-08 17:42:43.2557 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:42:43.2837 Info Adding target FileTarget(Name=info)
+2021-12-08 17:42:43.2837 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:42:43.2837 Info Adding target FileTarget(Name=error)
+2021-12-08 17:42:43.3006 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:42:43.3098 Info Configuration initialized.
+2021-12-08 17:42:43.3098 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 17:43:30.5348 Info Message Template Auto Format enabled
+2021-12-08 17:43:30.5594 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 17:43:30.5862 Info Adding target FileTarget(Name=info)
+2021-12-08 17:43:30.5862 Info Adding target FileTarget(Name=detail)
+2021-12-08 17:43:30.5862 Info Adding target FileTarget(Name=error)
+2021-12-08 17:43:30.6002 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 17:43:30.6093 Info Configuration initialized.
+2021-12-08 17:43:30.6093 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 18:09:51.3919 Info Message Template Auto Format enabled
+2021-12-08 18:09:51.4034 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 18:09:51.4366 Info Adding target FileTarget(Name=info)
+2021-12-08 18:09:51.4366 Info Adding target FileTarget(Name=detail)
+2021-12-08 18:09:51.4366 Info Adding target FileTarget(Name=error)
+2021-12-08 18:09:51.4549 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 18:09:51.4670 Info Configuration initialized.
+2021-12-08 18:09:51.4670 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-08 18:28:48.1589 Info Message Template Auto Format enabled
+2021-12-08 18:28:48.1697 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-08 18:28:48.1933 Info Adding target FileTarget(Name=info)
+2021-12-08 18:28:48.1933 Info Adding target FileTarget(Name=detail)
+2021-12-08 18:28:48.1933 Info Adding target FileTarget(Name=error)
+2021-12-08 18:28:48.2075 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-08 18:28:48.2163 Info Configuration initialized.
+2021-12-08 18:28:48.2163 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-10 18:26:20.8756 Info Message Template Auto Format enabled
+2021-12-10 18:26:20.8877 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-10 18:26:20.9149 Info Adding target FileTarget(Name=info)
+2021-12-10 18:26:20.9149 Info Adding target FileTarget(Name=detail)
+2021-12-10 18:26:20.9149 Info Adding target FileTarget(Name=error)
+2021-12-10 18:26:20.9149 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-10 18:26:20.9382 Info Configuration initialized.
+2021-12-10 18:26:20.9382 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-11 16:47:21.0295 Info Message Template Auto Format enabled
+2021-12-11 16:47:21.0412 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-11 16:47:21.1129 Info Adding target FileTarget(Name=info)
+2021-12-11 16:47:21.1129 Info Adding target FileTarget(Name=detail)
+2021-12-11 16:47:21.1129 Info Adding target FileTarget(Name=error)
+2021-12-11 16:47:21.1497 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-11 16:47:21.1625 Info Configuration initialized.
+2021-12-11 16:47:21.1625 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-11 21:52:33.2268 Info Message Template Auto Format enabled
+2021-12-11 21:52:33.2268 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-11 21:52:33.2640 Info Adding target FileTarget(Name=info)
+2021-12-11 21:52:33.2640 Info Adding target FileTarget(Name=detail)
+2021-12-11 21:52:33.2640 Info Adding target FileTarget(Name=error)
+2021-12-11 21:52:33.2779 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-11 21:52:33.2779 Info Configuration initialized.
+2021-12-11 21:52:33.2779 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-11 21:55:29.6578 Info Message Template Auto Format enabled
+2021-12-11 21:55:29.6702 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-11 21:55:29.6991 Info Adding target FileTarget(Name=info)
+2021-12-11 21:55:29.6991 Info Adding target FileTarget(Name=detail)
+2021-12-11 21:55:29.6991 Info Adding target FileTarget(Name=error)
+2021-12-11 21:55:29.7166 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-11 21:55:29.7296 Info Configuration initialized.
+2021-12-11 21:55:29.7296 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-11 22:00:31.4986 Info Message Template Auto Format enabled
+2021-12-11 22:00:31.5100 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-11 22:00:31.5387 Info Adding target FileTarget(Name=info)
+2021-12-11 22:00:31.5395 Info Adding target FileTarget(Name=detail)
+2021-12-11 22:00:31.5395 Info Adding target FileTarget(Name=error)
+2021-12-11 22:00:31.5395 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-11 22:00:31.5640 Info Configuration initialized.
+2021-12-11 22:00:31.5640 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-11 22:04:34.7770 Info Message Template Auto Format enabled
+2021-12-11 22:04:34.7770 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-11 22:04:34.8116 Info Adding target FileTarget(Name=info)
+2021-12-11 22:04:34.8116 Info Adding target FileTarget(Name=detail)
+2021-12-11 22:04:34.8116 Info Adding target FileTarget(Name=error)
+2021-12-11 22:04:34.8293 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-11 22:04:34.8383 Info Configuration initialized.
+2021-12-11 22:04:34.8383 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 12:28:45.0006 Info Message Template Auto Format enabled
+2021-12-14 12:28:45.0153 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 12:28:45.0696 Info Adding target FileTarget(Name=info)
+2021-12-14 12:28:45.0696 Info Adding target FileTarget(Name=detail)
+2021-12-14 12:28:45.0696 Info Adding target FileTarget(Name=error)
+2021-12-14 12:28:45.0881 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 12:28:45.0993 Info Configuration initialized.
+2021-12-14 12:28:45.0993 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 12:51:00.8268 Info Message Template Auto Format enabled
+2021-12-14 12:51:00.8437 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 12:51:00.8797 Info Adding target FileTarget(Name=info)
+2021-12-14 12:51:00.8797 Info Adding target FileTarget(Name=detail)
+2021-12-14 12:51:00.8797 Info Adding target FileTarget(Name=error)
+2021-12-14 12:51:00.8956 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 12:51:00.9061 Info Configuration initialized.
+2021-12-14 12:51:00.9061 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 12:56:07.8263 Info Message Template Auto Format enabled
+2021-12-14 12:56:07.8458 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 12:56:07.8821 Info Adding target FileTarget(Name=info)
+2021-12-14 12:56:07.8821 Info Adding target FileTarget(Name=detail)
+2021-12-14 12:56:07.8821 Info Adding target FileTarget(Name=error)
+2021-12-14 12:56:07.9001 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 12:56:07.9001 Info Configuration initialized.
+2021-12-14 12:56:07.9117 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 12:59:08.3886 Info Message Template Auto Format enabled
+2021-12-14 12:59:08.4311 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 12:59:08.4684 Info Adding target FileTarget(Name=info)
+2021-12-14 12:59:08.4684 Info Adding target FileTarget(Name=detail)
+2021-12-14 12:59:08.4684 Info Adding target FileTarget(Name=error)
+2021-12-14 12:59:08.4880 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 12:59:08.4996 Info Configuration initialized.
+2021-12-14 12:59:08.4996 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 13:17:12.9044 Info Message Template Auto Format enabled
+2021-12-14 13:17:12.9412 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 13:17:12.9982 Info Adding target FileTarget(Name=info)
+2021-12-14 13:17:12.9982 Info Adding target FileTarget(Name=detail)
+2021-12-14 13:17:12.9982 Info Adding target FileTarget(Name=error)
+2021-12-14 13:17:13.0372 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 13:17:13.0545 Info Configuration initialized.
+2021-12-14 13:17:13.0545 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 15:53:59.8140 Info Message Template Auto Format enabled
+2021-12-14 15:53:59.8488 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 15:53:59.8864 Info Adding target FileTarget(Name=info)
+2021-12-14 15:53:59.8864 Info Adding target FileTarget(Name=detail)
+2021-12-14 15:53:59.8864 Info Adding target FileTarget(Name=error)
+2021-12-14 15:53:59.9045 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 15:53:59.9045 Info Configuration initialized.
+2021-12-14 15:53:59.9168 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 15:57:31.3790 Info Message Template Auto Format enabled
+2021-12-14 15:57:31.3968 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 15:57:31.4339 Info Adding target FileTarget(Name=info)
+2021-12-14 15:57:31.4339 Info Adding target FileTarget(Name=detail)
+2021-12-14 15:57:31.4339 Info Adding target FileTarget(Name=error)
+2021-12-14 15:57:31.4511 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 15:57:31.4511 Info Configuration initialized.
+2021-12-14 15:57:31.4625 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 16:05:53.5143 Info Message Template Auto Format enabled
+2021-12-14 16:05:53.5319 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 16:05:53.5718 Info Adding target FileTarget(Name=info)
+2021-12-14 16:05:53.5718 Info Adding target FileTarget(Name=detail)
+2021-12-14 16:05:53.5718 Info Adding target FileTarget(Name=error)
+2021-12-14 16:05:53.5902 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 16:05:53.6030 Info Configuration initialized.
+2021-12-14 16:05:53.6030 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 16:10:11.4330 Info Message Template Auto Format enabled
+2021-12-14 16:10:11.4510 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 16:10:11.4862 Info Adding target FileTarget(Name=info)
+2021-12-14 16:10:11.4862 Info Adding target FileTarget(Name=detail)
+2021-12-14 16:10:11.4862 Info Adding target FileTarget(Name=error)
+2021-12-14 16:10:11.5094 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 16:10:11.5235 Info Configuration initialized.
+2021-12-14 16:10:11.5235 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 16:13:15.1025 Info Message Template Auto Format enabled
+2021-12-14 16:13:15.1320 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 16:13:15.1800 Info Adding target FileTarget(Name=info)
+2021-12-14 16:13:15.1800 Info Adding target FileTarget(Name=detail)
+2021-12-14 16:13:15.1800 Info Adding target FileTarget(Name=error)
+2021-12-14 16:13:15.2103 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 16:13:15.2272 Info Configuration initialized.
+2021-12-14 16:13:15.2272 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 16:17:45.7698 Info Message Template Auto Format enabled
+2021-12-14 16:17:45.7991 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 16:17:45.8324 Info Adding target FileTarget(Name=info)
+2021-12-14 16:17:45.8324 Info Adding target FileTarget(Name=detail)
+2021-12-14 16:17:45.8324 Info Adding target FileTarget(Name=error)
+2021-12-14 16:17:45.8510 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 16:17:45.8646 Info Configuration initialized.
+2021-12-14 16:17:45.8646 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:07:18.3407 Info Message Template Auto Format enabled
+2021-12-14 17:07:18.3607 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:07:18.3936 Info Adding target FileTarget(Name=info)
+2021-12-14 17:07:18.3936 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:07:18.3936 Info Adding target FileTarget(Name=error)
+2021-12-14 17:07:18.4114 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:07:18.4114 Info Configuration initialized.
+2021-12-14 17:07:18.4114 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:10:33.3125 Info Message Template Auto Format enabled
+2021-12-14 17:10:33.3338 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:10:33.3764 Info Adding target FileTarget(Name=info)
+2021-12-14 17:10:33.3764 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:10:33.3764 Info Adding target FileTarget(Name=error)
+2021-12-14 17:10:33.4020 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:10:33.4171 Info Configuration initialized.
+2021-12-14 17:10:33.4171 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:14:32.3181 Info Message Template Auto Format enabled
+2021-12-14 17:14:32.3388 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:14:32.3789 Info Adding target FileTarget(Name=info)
+2021-12-14 17:14:32.3789 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:14:32.3789 Info Adding target FileTarget(Name=error)
+2021-12-14 17:14:32.3979 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:14:32.4141 Info Configuration initialized.
+2021-12-14 17:14:32.4141 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:20:35.4663 Info Message Template Auto Format enabled
+2021-12-14 17:20:35.4829 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:20:35.5247 Info Adding target FileTarget(Name=info)
+2021-12-14 17:20:35.5247 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:20:35.5247 Info Adding target FileTarget(Name=error)
+2021-12-14 17:20:35.5451 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:20:35.5561 Info Configuration initialized.
+2021-12-14 17:20:35.5561 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:30:09.2776 Info Message Template Auto Format enabled
+2021-12-14 17:30:09.2959 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:30:09.3348 Info Adding target FileTarget(Name=info)
+2021-12-14 17:30:09.3348 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:30:09.3348 Info Adding target FileTarget(Name=error)
+2021-12-14 17:30:09.3514 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:30:09.3623 Info Configuration initialized.
+2021-12-14 17:30:09.3623 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-14 17:32:28.1724 Info Message Template Auto Format enabled
+2021-12-14 17:32:28.2038 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-14 17:32:28.2404 Info Adding target FileTarget(Name=info)
+2021-12-14 17:32:28.2404 Info Adding target FileTarget(Name=detail)
+2021-12-14 17:32:28.2404 Info Adding target FileTarget(Name=error)
+2021-12-14 17:32:28.2571 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-14 17:32:28.2693 Info Configuration initialized.
+2021-12-14 17:32:28.2693 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 11:52:34.3824 Info Message Template Auto Format enabled
+2021-12-15 11:52:34.4018 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 11:52:34.4411 Info Adding target FileTarget(Name=info)
+2021-12-15 11:52:34.4411 Info Adding target FileTarget(Name=detail)
+2021-12-15 11:52:34.4411 Info Adding target FileTarget(Name=error)
+2021-12-15 11:52:34.4639 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 11:52:34.4754 Info Configuration initialized.
+2021-12-15 11:52:34.4754 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 12:52:03.8966 Info Message Template Auto Format enabled
+2021-12-15 12:52:04.0618 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 12:52:04.1180 Info Adding target FileTarget(Name=info)
+2021-12-15 12:52:04.1191 Info Adding target FileTarget(Name=detail)
+2021-12-15 12:52:04.1191 Info Adding target FileTarget(Name=error)
+2021-12-15 12:52:04.1458 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 12:52:04.1766 Info Configuration initialized.
+2021-12-15 12:52:04.1891 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 12:57:28.2807 Info Message Template Auto Format enabled
+2021-12-15 12:57:28.3138 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 12:57:28.3740 Info Adding target FileTarget(Name=info)
+2021-12-15 12:57:28.3740 Info Adding target FileTarget(Name=detail)
+2021-12-15 12:57:28.3740 Info Adding target FileTarget(Name=error)
+2021-12-15 12:57:28.3925 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 12:57:28.4059 Info Configuration initialized.
+2021-12-15 12:57:28.4059 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 18:14:30.5020 Info Message Template Auto Format enabled
+2021-12-15 18:14:30.5142 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 18:14:30.5657 Info Adding target FileTarget(Name=info)
+2021-12-15 18:14:30.5657 Info Adding target FileTarget(Name=detail)
+2021-12-15 18:14:30.5657 Info Adding target FileTarget(Name=error)
+2021-12-15 18:14:30.5820 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 18:14:30.5954 Info Configuration initialized.
+2021-12-15 18:14:30.5954 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 18:39:58.3469 Info Message Template Auto Format enabled
+2021-12-15 18:39:58.3641 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 18:39:58.4016 Info Adding target FileTarget(Name=info)
+2021-12-15 18:39:58.4016 Info Adding target FileTarget(Name=detail)
+2021-12-15 18:39:58.4016 Info Adding target FileTarget(Name=error)
+2021-12-15 18:39:58.4203 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 18:39:58.4318 Info Configuration initialized.
+2021-12-15 18:39:58.4318 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 18:40:17.6186 Info Message Template Auto Format enabled
+2021-12-15 18:40:17.6366 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 18:40:17.6751 Info Adding target FileTarget(Name=info)
+2021-12-15 18:40:17.6760 Info Adding target FileTarget(Name=detail)
+2021-12-15 18:40:17.6760 Info Adding target FileTarget(Name=error)
+2021-12-15 18:40:17.6922 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 18:40:17.6922 Info Configuration initialized.
+2021-12-15 18:40:17.6922 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 18:45:39.3479 Info Message Template Auto Format enabled
+2021-12-15 18:45:39.3657 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 18:45:39.4022 Info Adding target FileTarget(Name=info)
+2021-12-15 18:45:39.4022 Info Adding target FileTarget(Name=detail)
+2021-12-15 18:45:39.4022 Info Adding target FileTarget(Name=error)
+2021-12-15 18:45:39.4198 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 18:45:39.4318 Info Configuration initialized.
+2021-12-15 18:45:39.4318 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 18:52:48.0549 Info Message Template Auto Format enabled
+2021-12-15 18:52:48.0711 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 18:52:48.1060 Info Adding target FileTarget(Name=info)
+2021-12-15 18:52:48.1060 Info Adding target FileTarget(Name=detail)
+2021-12-15 18:52:48.1060 Info Adding target FileTarget(Name=error)
+2021-12-15 18:52:48.1218 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 18:52:48.1318 Info Configuration initialized.
+2021-12-15 18:52:48.1318 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 19:18:30.4443 Info Message Template Auto Format enabled
+2021-12-15 19:18:30.4628 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 19:18:30.5004 Info Adding target FileTarget(Name=info)
+2021-12-15 19:18:30.5004 Info Adding target FileTarget(Name=detail)
+2021-12-15 19:18:30.5004 Info Adding target FileTarget(Name=error)
+2021-12-15 19:18:30.5173 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 19:18:30.5283 Info Configuration initialized.
+2021-12-15 19:18:30.5283 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 19:21:42.0507 Info Message Template Auto Format enabled
+2021-12-15 19:21:42.0742 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 19:21:42.1115 Info Adding target FileTarget(Name=info)
+2021-12-15 19:21:42.1115 Info Adding target FileTarget(Name=detail)
+2021-12-15 19:21:42.1115 Info Adding target FileTarget(Name=error)
+2021-12-15 19:21:42.1290 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 19:21:42.1399 Info Configuration initialized.
+2021-12-15 19:21:42.1399 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 19:22:38.6752 Info Message Template Auto Format enabled
+2021-12-15 19:22:38.6898 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 19:22:38.7256 Info Adding target FileTarget(Name=info)
+2021-12-15 19:22:38.7273 Info Adding target FileTarget(Name=detail)
+2021-12-15 19:22:38.7273 Info Adding target FileTarget(Name=error)
+2021-12-15 19:22:38.8533 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 19:22:38.8706 Info Configuration initialized.
+2021-12-15 19:22:38.8706 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 19:28:30.3620 Info Message Template Auto Format enabled
+2021-12-15 19:28:30.3823 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 19:28:30.4231 Info Adding target FileTarget(Name=info)
+2021-12-15 19:28:30.4231 Info Adding target FileTarget(Name=detail)
+2021-12-15 19:28:30.4231 Info Adding target FileTarget(Name=error)
+2021-12-15 19:28:30.4397 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 19:28:30.4507 Info Configuration initialized.
+2021-12-15 19:28:30.4507 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 19:33:09.8298 Info Message Template Auto Format enabled
+2021-12-15 19:33:09.8624 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 19:33:09.9173 Info Adding target FileTarget(Name=info)
+2021-12-15 19:33:09.9173 Info Adding target FileTarget(Name=detail)
+2021-12-15 19:33:09.9173 Info Adding target FileTarget(Name=error)
+2021-12-15 19:33:09.9358 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 19:33:09.9480 Info Configuration initialized.
+2021-12-15 19:33:09.9480 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-15 20:02:37.6801 Info Message Template Auto Format enabled
+2021-12-15 20:02:37.7010 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-15 20:02:37.7416 Info Adding target FileTarget(Name=info)
+2021-12-15 20:02:37.7416 Info Adding target FileTarget(Name=detail)
+2021-12-15 20:02:37.7416 Info Adding target FileTarget(Name=error)
+2021-12-15 20:02:37.7593 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-15 20:02:37.7711 Info Configuration initialized.
+2021-12-15 20:02:37.7711 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 17:44:58.0913 Info Message Template Auto Format enabled
+2021-12-16 17:44:58.1167 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 17:44:58.1488 Info Adding target FileTarget(Name=info)
+2021-12-16 17:44:58.1488 Info Adding target FileTarget(Name=detail)
+2021-12-16 17:44:58.1488 Info Adding target FileTarget(Name=error)
+2021-12-16 17:44:58.1761 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 17:44:58.1889 Info Configuration initialized.
+2021-12-16 17:44:58.1889 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 17:47:33.6178 Info Message Template Auto Format enabled
+2021-12-16 17:47:33.6420 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 17:47:33.7109 Info Adding target FileTarget(Name=info)
+2021-12-16 17:47:33.7109 Info Adding target FileTarget(Name=detail)
+2021-12-16 17:47:33.7109 Info Adding target FileTarget(Name=error)
+2021-12-16 17:47:33.7340 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 17:47:33.7498 Info Configuration initialized.
+2021-12-16 17:47:33.7505 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 17:50:10.1602 Info Message Template Auto Format enabled
+2021-12-16 17:50:10.1775 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 17:50:10.2146 Info Adding target FileTarget(Name=info)
+2021-12-16 17:50:10.2146 Info Adding target FileTarget(Name=detail)
+2021-12-16 17:50:10.2146 Info Adding target FileTarget(Name=error)
+2021-12-16 17:50:10.2321 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 17:50:10.2441 Info Configuration initialized.
+2021-12-16 17:50:10.2441 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 17:53:03.5466 Info Message Template Auto Format enabled
+2021-12-16 17:53:03.5646 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 17:53:03.6046 Info Adding target FileTarget(Name=info)
+2021-12-16 17:53:03.6046 Info Adding target FileTarget(Name=detail)
+2021-12-16 17:53:03.6046 Info Adding target FileTarget(Name=error)
+2021-12-16 17:53:03.6224 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 17:53:03.6330 Info Configuration initialized.
+2021-12-16 17:53:03.6330 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 17:58:51.5150 Info Message Template Auto Format enabled
+2021-12-16 17:58:51.5329 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 17:58:51.5721 Info Adding target FileTarget(Name=info)
+2021-12-16 17:58:51.5721 Info Adding target FileTarget(Name=detail)
+2021-12-16 17:58:51.5721 Info Adding target FileTarget(Name=error)
+2021-12-16 17:58:51.5915 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 17:58:51.5915 Info Configuration initialized.
+2021-12-16 17:58:51.5915 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-16 18:18:20.9087 Info Message Template Auto Format enabled
+2021-12-16 18:18:20.9254 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-16 18:18:20.9732 Info Adding target FileTarget(Name=info)
+2021-12-16 18:18:20.9732 Info Adding target FileTarget(Name=detail)
+2021-12-16 18:18:20.9732 Info Adding target FileTarget(Name=error)
+2021-12-16 18:18:20.9957 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-16 18:18:21.0170 Info Configuration initialized.
+2021-12-16 18:18:21.0170 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:38:43.7402 Info Message Template Auto Format enabled
+2021-12-18 17:38:43.7584 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:38:43.8090 Info Adding target FileTarget(Name=info)
+2021-12-18 17:38:43.8090 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:38:43.8090 Info Adding target FileTarget(Name=error)
+2021-12-18 17:38:43.8291 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:38:43.8456 Info Configuration initialized.
+2021-12-18 17:38:43.8456 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:44:56.2960 Info Message Template Auto Format enabled
+2021-12-18 17:44:56.3329 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:44:56.3736 Info Adding target FileTarget(Name=info)
+2021-12-18 17:44:56.3744 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:44:56.3744 Info Adding target FileTarget(Name=error)
+2021-12-18 17:44:56.3960 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:44:56.4109 Info Configuration initialized.
+2021-12-18 17:44:56.4109 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:45:59.4532 Info Message Template Auto Format enabled
+2021-12-18 17:45:59.4742 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:45:59.5161 Info Adding target FileTarget(Name=info)
+2021-12-18 17:45:59.5161 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:45:59.5161 Info Adding target FileTarget(Name=error)
+2021-12-18 17:45:59.5350 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:45:59.5480 Info Configuration initialized.
+2021-12-18 17:45:59.5480 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:47:02.5233 Info Message Template Auto Format enabled
+2021-12-18 17:47:02.5569 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:47:02.6039 Info Adding target FileTarget(Name=info)
+2021-12-18 17:47:02.6039 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:47:02.6039 Info Adding target FileTarget(Name=error)
+2021-12-18 17:47:02.6238 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:47:02.6376 Info Configuration initialized.
+2021-12-18 17:47:02.6437 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:47:36.5123 Info Message Template Auto Format enabled
+2021-12-18 17:47:36.5423 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:47:36.5900 Info Adding target FileTarget(Name=info)
+2021-12-18 17:47:36.5900 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:47:36.5900 Info Adding target FileTarget(Name=error)
+2021-12-18 17:47:36.6097 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:47:36.6097 Info Configuration initialized.
+2021-12-18 17:47:36.6245 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:48:55.4787 Info Message Template Auto Format enabled
+2021-12-18 17:48:55.5192 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:48:55.5706 Info Adding target FileTarget(Name=info)
+2021-12-18 17:48:55.5706 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:48:55.5706 Info Adding target FileTarget(Name=error)
+2021-12-18 17:48:55.5977 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:48:55.6128 Info Configuration initialized.
+2021-12-18 17:48:55.6128 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:50:45.4023 Info Message Template Auto Format enabled
+2021-12-18 17:50:45.4220 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:50:45.4674 Info Adding target FileTarget(Name=info)
+2021-12-18 17:50:45.4683 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:50:45.4683 Info Adding target FileTarget(Name=error)
+2021-12-18 17:50:45.4898 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:50:45.5054 Info Configuration initialized.
+2021-12-18 17:50:45.5054 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:51:29.1537 Info Message Template Auto Format enabled
+2021-12-18 17:51:29.1729 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:51:29.2185 Info Adding target FileTarget(Name=info)
+2021-12-18 17:51:29.2185 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:51:29.2185 Info Adding target FileTarget(Name=error)
+2021-12-18 17:51:29.2402 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:51:29.2583 Info Configuration initialized.
+2021-12-18 17:51:29.2583 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:53:24.9671 Info Message Template Auto Format enabled
+2021-12-18 17:53:25.0060 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:53:25.0463 Info Adding target FileTarget(Name=info)
+2021-12-18 17:53:25.0463 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:53:25.0463 Info Adding target FileTarget(Name=error)
+2021-12-18 17:53:25.0709 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:53:25.0970 Info Configuration initialized.
+2021-12-18 17:53:25.0970 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:54:15.4612 Info Message Template Auto Format enabled
+2021-12-18 17:54:15.4776 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:54:15.5568 Info Adding target FileTarget(Name=info)
+2021-12-18 17:54:15.5568 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:54:15.5568 Info Adding target FileTarget(Name=error)
+2021-12-18 17:54:15.6935 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:54:15.7233 Info Configuration initialized.
+2021-12-18 17:54:15.7233 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:55:17.2341 Info Message Template Auto Format enabled
+2021-12-18 17:55:17.2600 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:55:17.3067 Info Adding target FileTarget(Name=info)
+2021-12-18 17:55:17.3067 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:55:17.3098 Info Adding target FileTarget(Name=error)
+2021-12-18 17:55:17.3314 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:55:17.3533 Info Configuration initialized.
+2021-12-18 17:55:17.3533 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:58:07.2905 Info Message Template Auto Format enabled
+2021-12-18 17:58:07.3158 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:58:07.3615 Info Adding target FileTarget(Name=info)
+2021-12-18 17:58:07.3615 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:58:07.3615 Info Adding target FileTarget(Name=error)
+2021-12-18 17:58:07.3944 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:58:07.4074 Info Configuration initialized.
+2021-12-18 17:58:07.4074 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-18 17:59:46.9394 Info Message Template Auto Format enabled
+2021-12-18 17:59:46.9663 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-18 17:59:47.1358 Info Adding target FileTarget(Name=info)
+2021-12-18 17:59:47.1358 Info Adding target FileTarget(Name=detail)
+2021-12-18 17:59:47.1358 Info Adding target FileTarget(Name=error)
+2021-12-18 17:59:47.1592 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-18 17:59:47.1729 Info Configuration initialized.
+2021-12-18 17:59:47.1729 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:28:43.3766 Info Message Template Auto Format enabled
+2021-12-20 11:28:43.4022 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:28:43.4495 Info Adding target FileTarget(Name=info)
+2021-12-20 11:28:43.4495 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:28:43.4495 Info Adding target FileTarget(Name=error)
+2021-12-20 11:28:43.4691 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-20 11:28:43.4691 Info Configuration initialized.
+2021-12-20 11:28:43.4691 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:49:21.8409 Info Message Template Auto Format enabled
+2021-12-20 11:49:21.8584 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:49:21.9002 Info Adding target FileTarget(Name=info)
+2021-12-20 11:49:21.9002 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:49:21.9002 Info Adding target FileTarget(Name=error)
+2021-12-20 11:49:21.9258 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-20 11:49:21.9374 Info Configuration initialized.
+2021-12-20 11:49:21.9374 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:51:17.4045 Info Message Template Auto Format enabled
+2021-12-20 11:51:17.4341 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:51:17.4743 Info Adding target FileTarget(Name=info)
+2021-12-20 11:51:17.4743 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:51:17.4743 Info Adding target FileTarget(Name=error)
+2021-12-20 11:51:17.4941 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-20 11:51:17.5088 Info Configuration initialized.
+2021-12-20 11:51:17.5088 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:52:48.1151 Info Message Template Auto Format enabled
+2021-12-20 11:52:48.1401 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:52:48.1802 Info Adding target FileTarget(Name=info)
+2021-12-20 11:52:48.1802 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:52:48.1802 Info Adding target FileTarget(Name=error)
+2021-12-20 11:52:48.1995 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-20 11:52:48.2126 Info Configuration initialized.
+2021-12-20 11:52:48.2126 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:53:28.7629 Info Message Template Auto Format enabled
+2021-12-20 11:53:28.7774 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:53:28.8194 Info Adding target FileTarget(Name=info)
+2021-12-20 11:53:28.8226 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:53:28.8226 Info Adding target FileTarget(Name=error)
+2021-12-20 11:53:28.8436 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 11:53:28.8597 Info Configuration initialized.
+2021-12-20 11:53:28.8597 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:54:14.3238 Info Message Template Auto Format enabled
+2021-12-20 11:54:14.3489 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:54:14.3814 Info Adding target FileTarget(Name=info)
+2021-12-20 11:54:14.3827 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:54:14.3827 Info Adding target FileTarget(Name=error)
+2021-12-20 11:54:14.4004 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 11:54:14.4004 Info Configuration initialized.
+2021-12-20 11:54:14.4140 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 11:56:10.2403 Info Message Template Auto Format enabled
+2021-12-20 11:56:10.2583 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 11:56:10.2936 Info Adding target FileTarget(Name=info)
+2021-12-20 11:56:10.2936 Info Adding target FileTarget(Name=detail)
+2021-12-20 11:56:10.2936 Info Adding target FileTarget(Name=error)
+2021-12-20 11:56:10.3120 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 11:56:10.3237 Info Configuration initialized.
+2021-12-20 11:56:10.3237 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 12:04:12.6660 Info Message Template Auto Format enabled
+2021-12-20 12:04:12.6856 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 12:04:12.7334 Info Adding target FileTarget(Name=info)
+2021-12-20 12:04:12.7334 Info Adding target FileTarget(Name=detail)
+2021-12-20 12:04:12.7334 Info Adding target FileTarget(Name=error)
+2021-12-20 12:04:12.7519 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 12:04:12.7660 Info Configuration initialized.
+2021-12-20 12:04:12.7660 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 13:32:34.1860 Info Message Template Auto Format enabled
+2021-12-20 13:32:34.2002 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 13:32:34.2630 Info Adding target FileTarget(Name=info)
+2021-12-20 13:32:34.2630 Info Adding target FileTarget(Name=detail)
+2021-12-20 13:32:34.2630 Info Adding target FileTarget(Name=error)
+2021-12-20 13:32:34.2933 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 13:32:34.3097 Info Configuration initialized.
+2021-12-20 13:32:34.3105 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 15:44:46.4096 Info Message Template Auto Format enabled
+2021-12-20 15:44:46.4298 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 15:44:46.4703 Info Adding target FileTarget(Name=info)
+2021-12-20 15:44:46.4703 Info Adding target FileTarget(Name=detail)
+2021-12-20 15:44:46.4703 Info Adding target FileTarget(Name=error)
+2021-12-20 15:44:46.4912 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 15:44:46.5091 Info Configuration initialized.
+2021-12-20 15:44:46.5091 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 15:50:30.8501 Info Message Template Auto Format enabled
+2021-12-20 15:50:30.8722 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 15:50:30.9177 Info Adding target FileTarget(Name=info)
+2021-12-20 15:50:30.9177 Info Adding target FileTarget(Name=detail)
+2021-12-20 15:50:30.9177 Info Adding target FileTarget(Name=error)
+2021-12-20 15:50:30.9407 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 15:50:30.9541 Info Configuration initialized.
+2021-12-20 15:50:30.9541 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:30:38.8893 Info Message Template Auto Format enabled
+2021-12-20 16:30:38.9203 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:30:38.9633 Info Adding target FileTarget(Name=info)
+2021-12-20 16:30:38.9633 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:30:38.9633 Info Adding target FileTarget(Name=error)
+2021-12-20 16:30:38.9879 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:30:39.0110 Info Configuration initialized.
+2021-12-20 16:30:39.0110 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:31:58.2492 Info Message Template Auto Format enabled
+2021-12-20 16:31:58.2928 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:31:58.3326 Info Adding target FileTarget(Name=info)
+2021-12-20 16:31:58.3326 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:31:58.3326 Info Adding target FileTarget(Name=error)
+2021-12-20 16:31:58.3512 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:31:58.3658 Info Configuration initialized.
+2021-12-20 16:31:58.3658 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:33:59.8636 Info Message Template Auto Format enabled
+2021-12-20 16:33:59.8829 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:33:59.9258 Info Adding target FileTarget(Name=info)
+2021-12-20 16:33:59.9258 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:33:59.9258 Info Adding target FileTarget(Name=error)
+2021-12-20 16:33:59.9518 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:33:59.9654 Info Configuration initialized.
+2021-12-20 16:33:59.9654 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:35:25.8417 Info Message Template Auto Format enabled
+2021-12-20 16:35:25.8605 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:35:25.9015 Info Adding target FileTarget(Name=info)
+2021-12-20 16:35:25.9015 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:35:25.9099 Info Adding target FileTarget(Name=error)
+2021-12-20 16:35:25.9308 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:35:25.9487 Info Configuration initialized.
+2021-12-20 16:35:25.9487 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:36:40.7201 Info Message Template Auto Format enabled
+2021-12-20 16:36:40.7420 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:36:40.7918 Info Adding target FileTarget(Name=info)
+2021-12-20 16:36:40.7918 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:36:40.7918 Info Adding target FileTarget(Name=error)
+2021-12-20 16:36:40.8152 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:36:40.8326 Info Configuration initialized.
+2021-12-20 16:36:40.8326 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:37:39.0148 Info Message Template Auto Format enabled
+2021-12-20 16:37:39.0438 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:37:39.0912 Info Adding target FileTarget(Name=info)
+2021-12-20 16:37:39.0926 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:37:39.0926 Info Adding target FileTarget(Name=error)
+2021-12-20 16:37:39.1177 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:37:39.1411 Info Configuration initialized.
+2021-12-20 16:37:39.1411 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:39:43.9414 Info Message Template Auto Format enabled
+2021-12-20 16:39:43.9793 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:39:44.0390 Info Adding target FileTarget(Name=info)
+2021-12-20 16:39:44.0390 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:39:44.0390 Info Adding target FileTarget(Name=error)
+2021-12-20 16:39:44.0594 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:39:44.0744 Info Configuration initialized.
+2021-12-20 16:39:44.0759 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:56:26.6819 Info Message Template Auto Format enabled
+2021-12-20 16:56:26.7177 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:56:26.7632 Info Adding target FileTarget(Name=info)
+2021-12-20 16:56:26.7632 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:56:26.7632 Info Adding target FileTarget(Name=error)
+2021-12-20 16:56:26.7942 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:56:26.8076 Info Configuration initialized.
+2021-12-20 16:56:26.8076 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 16:58:12.2158 Info Message Template Auto Format enabled
+2021-12-20 16:58:12.5149 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 16:58:12.5603 Info Adding target FileTarget(Name=info)
+2021-12-20 16:58:12.5603 Info Adding target FileTarget(Name=detail)
+2021-12-20 16:58:12.5603 Info Adding target FileTarget(Name=error)
+2021-12-20 16:58:12.5815 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 16:58:12.5941 Info Configuration initialized.
+2021-12-20 16:58:12.5941 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:04:10.2921 Info Message Template Auto Format enabled
+2021-12-20 17:04:10.3117 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:04:10.3501 Info Adding target FileTarget(Name=info)
+2021-12-20 17:04:10.3501 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:04:10.3501 Info Adding target FileTarget(Name=error)
+2021-12-20 17:04:10.3681 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:04:10.3793 Info Configuration initialized.
+2021-12-20 17:04:10.3793 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:09:45.1513 Info Message Template Auto Format enabled
+2021-12-20 17:09:45.1707 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:09:45.2147 Info Adding target FileTarget(Name=info)
+2021-12-20 17:09:45.2242 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:09:45.2242 Info Adding target FileTarget(Name=error)
+2021-12-20 17:09:45.2421 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:09:45.2535 Info Configuration initialized.
+2021-12-20 17:09:45.2535 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:12:37.4726 Info Message Template Auto Format enabled
+2021-12-20 17:12:37.5035 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:12:37.5424 Info Adding target FileTarget(Name=info)
+2021-12-20 17:12:37.5424 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:12:37.5424 Info Adding target FileTarget(Name=error)
+2021-12-20 17:12:37.5608 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:12:37.5793 Info Configuration initialized.
+2021-12-20 17:12:37.5793 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:16:01.4767 Info Message Template Auto Format enabled
+2021-12-20 17:16:01.5106 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:16:01.5550 Info Adding target FileTarget(Name=info)
+2021-12-20 17:16:01.5550 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:16:01.5550 Info Adding target FileTarget(Name=error)
+2021-12-20 17:16:01.5730 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:16:01.5880 Info Configuration initialized.
+2021-12-20 17:16:01.5880 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:17:21.2021 Info Message Template Auto Format enabled
+2021-12-20 17:17:21.2203 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:17:21.2584 Info Adding target FileTarget(Name=info)
+2021-12-20 17:17:21.2584 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:17:21.2584 Info Adding target FileTarget(Name=error)
+2021-12-20 17:17:21.2756 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:17:21.2877 Info Configuration initialized.
+2021-12-20 17:17:21.2877 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:22:51.9034 Info Message Template Auto Format enabled
+2021-12-20 17:22:51.9297 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:22:51.9758 Info Adding target FileTarget(Name=info)
+2021-12-20 17:22:51.9758 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:22:51.9758 Info Adding target FileTarget(Name=error)
+2021-12-20 17:22:52.0095 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:22:52.0263 Info Configuration initialized.
+2021-12-20 17:22:52.0263 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:25:04.1639 Info Message Template Auto Format enabled
+2021-12-20 17:25:04.1835 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:25:04.2253 Info Adding target FileTarget(Name=info)
+2021-12-20 17:25:04.2253 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:25:04.2253 Info Adding target FileTarget(Name=error)
+2021-12-20 17:25:04.2467 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:25:04.2607 Info Configuration initialized.
+2021-12-20 17:25:04.2607 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:25:41.9274 Info Message Template Auto Format enabled
+2021-12-20 17:25:41.9570 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:25:41.9988 Info Adding target FileTarget(Name=info)
+2021-12-20 17:25:41.9988 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:25:41.9988 Info Adding target FileTarget(Name=error)
+2021-12-20 17:25:42.0166 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:25:42.0273 Info Configuration initialized.
+2021-12-20 17:25:42.0273 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:32:26.4816 Info Message Template Auto Format enabled
+2021-12-20 17:32:26.5045 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:32:26.5361 Info Adding target FileTarget(Name=info)
+2021-12-20 17:32:26.5361 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:32:26.5361 Info Adding target FileTarget(Name=error)
+2021-12-20 17:32:26.5548 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:32:26.5698 Info Configuration initialized.
+2021-12-20 17:32:26.5698 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-20 17:33:25.5287 Info Message Template Auto Format enabled
+2021-12-20 17:33:25.5492 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-20 17:33:25.5940 Info Adding target FileTarget(Name=info)
+2021-12-20 17:33:25.5940 Info Adding target FileTarget(Name=detail)
+2021-12-20 17:33:25.6090 Info Adding target FileTarget(Name=error)
+2021-12-20 17:33:25.6265 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-20 17:33:25.6377 Info Configuration initialized.
+2021-12-20 17:33:25.6377 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 18:44:02.2642 Info Message Template Auto Format enabled
+2021-12-21 18:44:02.2828 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 18:44:02.3452 Info Adding target FileTarget(Name=info)
+2021-12-21 18:44:02.3452 Info Adding target FileTarget(Name=detail)
+2021-12-21 18:44:02.3452 Info Adding target FileTarget(Name=error)
+2021-12-21 18:44:02.3754 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 18:44:02.3896 Info Configuration initialized.
+2021-12-21 18:44:02.3896 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 18:46:05.4230 Info Message Template Auto Format enabled
+2021-12-21 18:46:05.4484 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 18:46:05.4964 Info Adding target FileTarget(Name=info)
+2021-12-21 18:46:05.4978 Info Adding target FileTarget(Name=detail)
+2021-12-21 18:46:05.4978 Info Adding target FileTarget(Name=error)
+2021-12-21 18:46:05.5203 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 18:46:05.5374 Info Configuration initialized.
+2021-12-21 18:46:05.5374 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 18:56:45.1970 Info Message Template Auto Format enabled
+2021-12-21 18:56:45.2199 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 18:56:45.2789 Info Adding target FileTarget(Name=info)
+2021-12-21 18:56:45.2789 Info Adding target FileTarget(Name=detail)
+2021-12-21 18:56:45.2789 Info Adding target FileTarget(Name=error)
+2021-12-21 18:56:45.3011 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 18:56:45.3147 Info Configuration initialized.
+2021-12-21 18:56:45.3147 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 18:58:43.5570 Info Message Template Auto Format enabled
+2021-12-21 18:58:43.8446 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 18:58:43.9134 Info Adding target FileTarget(Name=info)
+2021-12-21 18:58:43.9134 Info Adding target FileTarget(Name=detail)
+2021-12-21 18:58:43.9134 Info Adding target FileTarget(Name=error)
+2021-12-21 18:58:43.9353 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 18:58:43.9499 Info Configuration initialized.
+2021-12-21 18:58:43.9499 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 18:59:37.5135 Info Message Template Auto Format enabled
+2021-12-21 18:59:37.5378 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 18:59:37.5852 Info Adding target FileTarget(Name=info)
+2021-12-21 18:59:37.5852 Info Adding target FileTarget(Name=detail)
+2021-12-21 18:59:37.5852 Info Adding target FileTarget(Name=error)
+2021-12-21 18:59:37.6034 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 18:59:37.6034 Info Configuration initialized.
+2021-12-21 18:59:37.6034 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:11:54.6268 Info Message Template Auto Format enabled
+2021-12-21 19:11:54.6516 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:11:54.6975 Info Adding target FileTarget(Name=info)
+2021-12-21 19:11:54.6975 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:11:54.6975 Info Adding target FileTarget(Name=error)
+2021-12-21 19:11:54.7191 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:11:54.7528 Info Configuration initialized.
+2021-12-21 19:11:54.7528 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:39:26.6637 Info Message Template Auto Format enabled
+2021-12-21 19:39:26.6830 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:39:26.7137 Info Adding target FileTarget(Name=info)
+2021-12-21 19:39:26.7137 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:39:26.7137 Info Adding target FileTarget(Name=error)
+2021-12-21 19:39:26.7405 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:39:26.7520 Info Configuration initialized.
+2021-12-21 19:39:26.7520 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:40:30.3295 Info Message Template Auto Format enabled
+2021-12-21 19:40:30.3729 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:40:30.4147 Info Adding target FileTarget(Name=info)
+2021-12-21 19:40:30.4147 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:40:30.4147 Info Adding target FileTarget(Name=error)
+2021-12-21 19:40:30.4930 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:40:30.5236 Info Configuration initialized.
+2021-12-21 19:40:30.5236 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:41:19.8453 Info Message Template Auto Format enabled
+2021-12-21 19:41:19.8672 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:41:19.9113 Info Adding target FileTarget(Name=info)
+2021-12-21 19:41:19.9113 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:41:19.9113 Info Adding target FileTarget(Name=error)
+2021-12-21 19:41:19.9305 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:41:19.9434 Info Configuration initialized.
+2021-12-21 19:41:19.9434 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:45:32.1033 Info Message Template Auto Format enabled
+2021-12-21 19:45:32.1377 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:45:32.1752 Info Adding target FileTarget(Name=info)
+2021-12-21 19:45:32.1752 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:45:32.1752 Info Adding target FileTarget(Name=error)
+2021-12-21 19:45:32.1922 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:45:32.2105 Info Configuration initialized.
+2021-12-21 19:45:32.2105 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:47:40.4759 Info Message Template Auto Format enabled
+2021-12-21 19:47:40.4977 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:47:40.5396 Info Adding target FileTarget(Name=info)
+2021-12-21 19:47:40.5396 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:47:40.5396 Info Adding target FileTarget(Name=error)
+2021-12-21 19:47:40.5590 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:47:40.5716 Info Configuration initialized.
+2021-12-21 19:47:40.5716 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:48:39.3603 Info Message Template Auto Format enabled
+2021-12-21 19:48:39.7012 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:48:39.7382 Info Adding target FileTarget(Name=info)
+2021-12-21 19:48:39.7382 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:48:39.7382 Info Adding target FileTarget(Name=error)
+2021-12-21 19:48:39.7560 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:48:39.7701 Info Configuration initialized.
+2021-12-21 19:48:39.7701 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:49:30.3499 Info Message Template Auto Format enabled
+2021-12-21 19:49:30.3783 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:49:30.4213 Info Adding target FileTarget(Name=info)
+2021-12-21 19:49:30.4213 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:49:30.4213 Info Adding target FileTarget(Name=error)
+2021-12-21 19:49:30.4538 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:49:30.4538 Info Configuration initialized.
+2021-12-21 19:49:30.4668 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:55:40.3891 Info Message Template Auto Format enabled
+2021-12-21 19:55:40.4105 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:55:40.4585 Info Adding target FileTarget(Name=info)
+2021-12-21 19:55:40.4585 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:55:40.4585 Info Adding target FileTarget(Name=error)
+2021-12-21 19:55:40.4849 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:55:40.4983 Info Configuration initialized.
+2021-12-21 19:55:40.4983 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 19:58:10.3743 Info Message Template Auto Format enabled
+2021-12-21 19:58:10.3945 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 19:58:10.4276 Info Adding target FileTarget(Name=info)
+2021-12-21 19:58:10.4276 Info Adding target FileTarget(Name=detail)
+2021-12-21 19:58:10.4276 Info Adding target FileTarget(Name=error)
+2021-12-21 19:58:10.4486 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 19:58:10.4644 Info Configuration initialized.
+2021-12-21 19:58:10.4644 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:00:16.5034 Info Message Template Auto Format enabled
+2021-12-21 20:00:16.5280 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:00:16.5717 Info Adding target FileTarget(Name=info)
+2021-12-21 20:00:16.5717 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:00:16.5736 Info Adding target FileTarget(Name=error)
+2021-12-21 20:00:16.6054 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:00:16.6225 Info Configuration initialized.
+2021-12-21 20:00:16.6225 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:03:46.8661 Info Message Template Auto Format enabled
+2021-12-21 20:03:46.8854 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:03:46.9275 Info Adding target FileTarget(Name=info)
+2021-12-21 20:03:46.9275 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:03:46.9275 Info Adding target FileTarget(Name=error)
+2021-12-21 20:03:46.9475 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:03:46.9475 Info Configuration initialized.
+2021-12-21 20:03:46.9475 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:07:12.2273 Info Message Template Auto Format enabled
+2021-12-21 20:07:12.2455 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:07:12.2865 Info Adding target FileTarget(Name=info)
+2021-12-21 20:07:12.2865 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:07:12.2865 Info Adding target FileTarget(Name=error)
+2021-12-21 20:07:12.3048 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:07:12.3163 Info Configuration initialized.
+2021-12-21 20:07:12.3163 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:09:07.6261 Info Message Template Auto Format enabled
+2021-12-21 20:09:07.6573 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:09:07.6945 Info Adding target FileTarget(Name=info)
+2021-12-21 20:09:07.6945 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:09:07.6963 Info Adding target FileTarget(Name=error)
+2021-12-21 20:09:07.7152 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:09:07.7279 Info Configuration initialized.
+2021-12-21 20:09:07.7279 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:14:22.0056 Info Message Template Auto Format enabled
+2021-12-21 20:14:22.0360 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:14:22.0761 Info Adding target FileTarget(Name=info)
+2021-12-21 20:14:22.0761 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:14:22.0761 Info Adding target FileTarget(Name=error)
+2021-12-21 20:14:22.0939 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:14:22.1057 Info Configuration initialized.
+2021-12-21 20:14:22.1057 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:16:43.1363 Info Message Template Auto Format enabled
+2021-12-21 20:16:43.1528 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:16:43.1904 Info Adding target FileTarget(Name=info)
+2021-12-21 20:16:43.1904 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:16:43.1904 Info Adding target FileTarget(Name=error)
+2021-12-21 20:16:43.2079 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:16:43.2287 Info Configuration initialized.
+2021-12-21 20:16:43.2287 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:17:26.5320 Info Message Template Auto Format enabled
+2021-12-21 20:17:26.5522 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:17:26.5942 Info Adding target FileTarget(Name=info)
+2021-12-21 20:17:26.5942 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:17:26.5942 Info Adding target FileTarget(Name=error)
+2021-12-21 20:17:26.6161 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:17:26.6288 Info Configuration initialized.
+2021-12-21 20:17:26.6288 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:20:52.9958 Info Message Template Auto Format enabled
+2021-12-21 20:20:53.0231 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:20:53.0630 Info Adding target FileTarget(Name=info)
+2021-12-21 20:20:53.0630 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:20:53.0630 Info Adding target FileTarget(Name=error)
+2021-12-21 20:20:53.0874 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:20:53.1103 Info Configuration initialized.
+2021-12-21 20:20:53.1103 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:25:27.4848 Info Message Template Auto Format enabled
+2021-12-21 20:25:27.5304 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:25:27.5841 Info Adding target FileTarget(Name=info)
+2021-12-21 20:25:27.5841 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:25:27.5841 Info Adding target FileTarget(Name=error)
+2021-12-21 20:25:27.6159 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:25:27.6159 Info Configuration initialized.
+2021-12-21 20:25:27.6159 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:26:10.0453 Info Message Template Auto Format enabled
+2021-12-21 20:26:10.0860 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:26:10.1444 Info Adding target FileTarget(Name=info)
+2021-12-21 20:26:10.1444 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:26:10.1444 Info Adding target FileTarget(Name=error)
+2021-12-21 20:26:10.1620 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:26:10.1764 Info Configuration initialized.
+2021-12-21 20:26:10.1773 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:26:41.3239 Info Message Template Auto Format enabled
+2021-12-21 20:26:41.3608 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:26:41.4418 Info Adding target FileTarget(Name=info)
+2021-12-21 20:26:41.4418 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:26:41.4446 Info Adding target FileTarget(Name=error)
+2021-12-21 20:26:41.4659 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:26:41.4854 Info Configuration initialized.
+2021-12-21 20:26:41.4854 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:27:25.2409 Info Message Template Auto Format enabled
+2021-12-21 20:27:25.2765 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:27:25.3117 Info Adding target FileTarget(Name=info)
+2021-12-21 20:27:25.3117 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:27:25.3117 Info Adding target FileTarget(Name=error)
+2021-12-21 20:27:25.3403 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:27:25.3546 Info Configuration initialized.
+2021-12-21 20:27:25.3546 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:27:46.2675 Info Message Template Auto Format enabled
+2021-12-21 20:27:46.2925 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:27:46.3286 Info Adding target FileTarget(Name=info)
+2021-12-21 20:27:46.3286 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:27:46.3286 Info Adding target FileTarget(Name=error)
+2021-12-21 20:27:46.3505 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:27:46.3505 Info Configuration initialized.
+2021-12-21 20:27:46.3505 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:32:31.5961 Info Message Template Auto Format enabled
+2021-12-21 20:32:31.6305 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:32:31.6767 Info Adding target FileTarget(Name=info)
+2021-12-21 20:32:31.6767 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:32:31.6767 Info Adding target FileTarget(Name=error)
+2021-12-21 20:32:31.6953 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:32:31.7088 Info Configuration initialized.
+2021-12-21 20:32:31.7088 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:34:16.5831 Info Message Template Auto Format enabled
+2021-12-21 20:34:16.6129 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:34:16.6529 Info Adding target FileTarget(Name=info)
+2021-12-21 20:34:16.6529 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:34:16.6529 Info Adding target FileTarget(Name=error)
+2021-12-21 20:34:16.7107 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:34:16.7371 Info Configuration initialized.
+2021-12-21 20:34:16.7371 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:39:26.6147 Info Message Template Auto Format enabled
+2021-12-21 20:39:26.6387 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:39:26.6779 Info Adding target FileTarget(Name=info)
+2021-12-21 20:39:26.6779 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:39:26.6779 Info Adding target FileTarget(Name=error)
+2021-12-21 20:39:26.7025 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:39:26.7176 Info Configuration initialized.
+2021-12-21 20:39:26.7176 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-21 20:41:08.8051 Info Message Template Auto Format enabled
+2021-12-21 20:41:08.8248 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-21 20:41:08.8691 Info Adding target FileTarget(Name=info)
+2021-12-21 20:41:08.8691 Info Adding target FileTarget(Name=detail)
+2021-12-21 20:41:08.8691 Info Adding target FileTarget(Name=error)
+2021-12-21 20:41:08.8901 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-21 20:41:08.9028 Info Configuration initialized.
+2021-12-21 20:41:08.9028 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:30:37.4724 Info Message Template Auto Format enabled
+2021-12-22 15:30:37.4862 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:30:37.5368 Info Adding target FileTarget(Name=info)
+2021-12-22 15:30:37.5368 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:30:37.5368 Info Adding target FileTarget(Name=error)
+2021-12-22 15:30:37.5786 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:30:37.5946 Info Configuration initialized.
+2021-12-22 15:30:37.5946 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:32:56.0302 Info Message Template Auto Format enabled
+2021-12-22 15:32:56.1181 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:32:56.2070 Info Adding target FileTarget(Name=info)
+2021-12-22 15:32:56.2070 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:32:56.2070 Info Adding target FileTarget(Name=error)
+2021-12-22 15:32:56.2256 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:32:56.2382 Info Configuration initialized.
+2021-12-22 15:32:56.2382 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:39:13.7926 Info Message Template Auto Format enabled
+2021-12-22 15:39:13.8137 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:39:13.8562 Info Adding target FileTarget(Name=info)
+2021-12-22 15:39:13.8562 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:39:13.8562 Info Adding target FileTarget(Name=error)
+2021-12-22 15:39:13.8809 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:39:13.8951 Info Configuration initialized.
+2021-12-22 15:39:13.8951 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:41:31.5031 Info Message Template Auto Format enabled
+2021-12-22 15:41:31.5126 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:41:31.5415 Info Adding target FileTarget(Name=info)
+2021-12-22 15:41:31.5415 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:41:31.5415 Info Adding target FileTarget(Name=error)
+2021-12-22 15:41:31.5595 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:41:31.5705 Info Configuration initialized.
+2021-12-22 15:41:31.5705 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:48:31.0367 Info Message Template Auto Format enabled
+2021-12-22 15:48:31.0804 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:48:31.1855 Info Adding target FileTarget(Name=info)
+2021-12-22 15:48:31.1855 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:48:31.1855 Info Adding target FileTarget(Name=error)
+2021-12-22 15:48:31.2082 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:48:31.2327 Info Configuration initialized.
+2021-12-22 15:48:31.2327 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:55:10.4458 Info Message Template Auto Format enabled
+2021-12-22 15:55:10.4877 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:55:10.5341 Info Adding target FileTarget(Name=info)
+2021-12-22 15:55:10.5341 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:55:10.5341 Info Adding target FileTarget(Name=error)
+2021-12-22 15:55:10.5838 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:55:10.6068 Info Configuration initialized.
+2021-12-22 15:55:10.6068 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 15:59:22.7478 Info Message Template Auto Format enabled
+2021-12-22 15:59:22.7766 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 15:59:22.8192 Info Adding target FileTarget(Name=info)
+2021-12-22 15:59:22.8192 Info Adding target FileTarget(Name=detail)
+2021-12-22 15:59:22.8192 Info Adding target FileTarget(Name=error)
+2021-12-22 15:59:22.8409 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 15:59:22.8531 Info Configuration initialized.
+2021-12-22 15:59:22.8531 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:08:35.9647 Info Message Template Auto Format enabled
+2021-12-22 16:08:35.9821 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:08:36.0264 Info Adding target FileTarget(Name=info)
+2021-12-22 16:08:36.0273 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:08:36.0273 Info Adding target FileTarget(Name=error)
+2021-12-22 16:08:36.0449 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:08:36.0449 Info Configuration initialized.
+2021-12-22 16:08:36.0449 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:11:38.9381 Info Message Template Auto Format enabled
+2021-12-22 16:11:38.9593 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:11:38.9999 Info Adding target FileTarget(Name=info)
+2021-12-22 16:11:38.9999 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:11:38.9999 Info Adding target FileTarget(Name=error)
+2021-12-22 16:11:39.0208 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:11:39.0366 Info Configuration initialized.
+2021-12-22 16:11:39.0366 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:12:29.2446 Info Message Template Auto Format enabled
+2021-12-22 16:12:29.2640 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:12:29.3056 Info Adding target FileTarget(Name=info)
+2021-12-22 16:12:29.3056 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:12:29.3056 Info Adding target FileTarget(Name=error)
+2021-12-22 16:12:29.3245 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:12:29.3416 Info Configuration initialized.
+2021-12-22 16:12:29.3416 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:13:57.5193 Info Message Template Auto Format enabled
+2021-12-22 16:13:57.5814 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:13:57.6194 Info Adding target FileTarget(Name=info)
+2021-12-22 16:13:57.6194 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:13:57.6210 Info Adding target FileTarget(Name=error)
+2021-12-22 16:13:57.6377 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:13:57.6377 Info Configuration initialized.
+2021-12-22 16:13:57.6377 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:15:36.5274 Info Message Template Auto Format enabled
+2021-12-22 16:15:36.5546 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:15:36.5939 Info Adding target FileTarget(Name=info)
+2021-12-22 16:15:36.5939 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:15:36.5939 Info Adding target FileTarget(Name=error)
+2021-12-22 16:15:36.6124 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:15:36.6239 Info Configuration initialized.
+2021-12-22 16:15:36.6239 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 16:21:58.4876 Info Message Template Auto Format enabled
+2021-12-22 16:21:58.5084 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 16:21:58.5521 Info Adding target FileTarget(Name=info)
+2021-12-22 16:21:58.5521 Info Adding target FileTarget(Name=detail)
+2021-12-22 16:21:58.5521 Info Adding target FileTarget(Name=error)
+2021-12-22 16:21:58.5720 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 16:21:58.5923 Info Configuration initialized.
+2021-12-22 16:21:58.5923 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 19:21:40.9359 Info Message Template Auto Format enabled
+2021-12-22 19:21:40.9466 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 19:21:41.0136 Info Adding target FileTarget(Name=info)
+2021-12-22 19:21:41.0136 Info Adding target FileTarget(Name=detail)
+2021-12-22 19:21:41.0149 Info Adding target FileTarget(Name=error)
+2021-12-22 19:21:41.0149 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 19:21:41.0405 Info Configuration initialized.
+2021-12-22 19:21:41.0405 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 19:37:30.6479 Info Message Template Auto Format enabled
+2021-12-22 19:37:30.6663 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 19:37:30.7060 Info Adding target FileTarget(Name=info)
+2021-12-22 19:37:30.7060 Info Adding target FileTarget(Name=detail)
+2021-12-22 19:37:30.7060 Info Adding target FileTarget(Name=error)
+2021-12-22 19:37:30.7238 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 19:37:30.7357 Info Configuration initialized.
+2021-12-22 19:37:30.7357 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 19:47:05.4536 Info Message Template Auto Format enabled
+2021-12-22 19:47:05.4724 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 19:47:05.5081 Info Adding target FileTarget(Name=info)
+2021-12-22 19:47:05.5089 Info Adding target FileTarget(Name=detail)
+2021-12-22 19:47:05.5089 Info Adding target FileTarget(Name=error)
+2021-12-22 19:47:05.5089 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 19:47:05.5361 Info Configuration initialized.
+2021-12-22 19:47:05.5361 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:01:46.7031 Info Message Template Auto Format enabled
+2021-12-22 20:01:46.7403 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:01:46.7913 Info Adding target FileTarget(Name=info)
+2021-12-22 20:01:46.7913 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:01:46.7913 Info Adding target FileTarget(Name=error)
+2021-12-22 20:01:46.8118 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:01:46.8271 Info Configuration initialized.
+2021-12-22 20:01:46.8271 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:06:57.7774 Info Message Template Auto Format enabled
+2021-12-22 20:06:57.8001 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:06:57.8406 Info Adding target FileTarget(Name=info)
+2021-12-22 20:06:57.8406 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:06:57.8406 Info Adding target FileTarget(Name=error)
+2021-12-22 20:06:57.8607 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:06:57.8726 Info Configuration initialized.
+2021-12-22 20:06:57.8726 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:13:15.5103 Info Message Template Auto Format enabled
+2021-12-22 20:13:15.5287 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:13:15.5680 Info Adding target FileTarget(Name=info)
+2021-12-22 20:13:15.5680 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:13:15.5680 Info Adding target FileTarget(Name=error)
+2021-12-22 20:13:15.5855 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:13:15.5970 Info Configuration initialized.
+2021-12-22 20:13:15.5970 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:17:31.4213 Info Message Template Auto Format enabled
+2021-12-22 20:17:31.4478 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:17:31.4857 Info Adding target FileTarget(Name=info)
+2021-12-22 20:17:31.4857 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:17:31.4857 Info Adding target FileTarget(Name=error)
+2021-12-22 20:17:31.5019 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:17:31.5019 Info Configuration initialized.
+2021-12-22 20:17:31.5019 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:19:17.0247 Info Message Template Auto Format enabled
+2021-12-22 20:19:17.0439 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:19:17.0806 Info Adding target FileTarget(Name=info)
+2021-12-22 20:19:17.0806 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:19:17.0806 Info Adding target FileTarget(Name=error)
+2021-12-22 20:19:17.0974 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:19:17.0974 Info Configuration initialized.
+2021-12-22 20:19:17.0974 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:31:12.1105 Info Message Template Auto Format enabled
+2021-12-22 20:31:12.1299 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:31:12.1663 Info Adding target FileTarget(Name=info)
+2021-12-22 20:31:12.1663 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:31:12.1676 Info Adding target FileTarget(Name=error)
+2021-12-22 20:31:12.1676 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:31:12.1976 Info Configuration initialized.
+2021-12-22 20:31:12.1976 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:31:46.6447 Info Message Template Auto Format enabled
+2021-12-22 20:31:46.6630 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:31:46.6996 Info Adding target FileTarget(Name=info)
+2021-12-22 20:31:46.6996 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:31:46.6996 Info Adding target FileTarget(Name=error)
+2021-12-22 20:31:46.7156 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:31:46.7156 Info Configuration initialized.
+2021-12-22 20:31:46.7156 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-22 20:38:41.8843 Info Message Template Auto Format enabled
+2021-12-22 20:38:41.9073 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-22 20:38:41.9519 Info Adding target FileTarget(Name=info)
+2021-12-22 20:38:41.9519 Info Adding target FileTarget(Name=detail)
+2021-12-22 20:38:41.9519 Info Adding target FileTarget(Name=error)
+2021-12-22 20:38:41.9733 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-22 20:38:41.9954 Info Configuration initialized.
+2021-12-22 20:38:41.9954 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 12:51:43.1547 Info Message Template Auto Format enabled
+2021-12-23 12:51:43.1732 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 12:51:43.2682 Info Adding target FileTarget(Name=info)
+2021-12-23 12:51:43.2682 Info Adding target FileTarget(Name=detail)
+2021-12-23 12:51:43.2682 Info Adding target FileTarget(Name=error)
+2021-12-23 12:51:43.2917 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 12:51:43.2917 Info Configuration initialized.
+2021-12-23 12:51:43.2917 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 12:54:50.0923 Info Message Template Auto Format enabled
+2021-12-23 12:54:50.1098 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 12:54:50.1492 Info Adding target FileTarget(Name=info)
+2021-12-23 12:54:50.1492 Info Adding target FileTarget(Name=detail)
+2021-12-23 12:54:50.1492 Info Adding target FileTarget(Name=error)
+2021-12-23 12:54:50.1694 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 12:54:50.1803 Info Configuration initialized.
+2021-12-23 12:54:50.1803 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 12:58:24.0538 Info Message Template Auto Format enabled
+2021-12-23 12:58:24.0711 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 12:58:24.1067 Info Adding target FileTarget(Name=info)
+2021-12-23 12:58:24.1067 Info Adding target FileTarget(Name=detail)
+2021-12-23 12:58:24.1067 Info Adding target FileTarget(Name=error)
+2021-12-23 12:58:24.1235 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 12:58:24.1235 Info Configuration initialized.
+2021-12-23 12:58:24.1356 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 12:59:57.9299 Info Message Template Auto Format enabled
+2021-12-23 12:59:57.9484 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 12:59:57.9832 Info Adding target FileTarget(Name=info)
+2021-12-23 12:59:57.9832 Info Adding target FileTarget(Name=detail)
+2021-12-23 12:59:57.9832 Info Adding target FileTarget(Name=error)
+2021-12-23 12:59:58.0010 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 12:59:58.0120 Info Configuration initialized.
+2021-12-23 12:59:58.0120 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 13:06:04.3782 Info Message Template Auto Format enabled
+2021-12-23 13:06:04.3957 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 13:06:04.4318 Info Adding target FileTarget(Name=info)
+2021-12-23 13:06:04.4318 Info Adding target FileTarget(Name=detail)
+2021-12-23 13:06:04.4318 Info Adding target FileTarget(Name=error)
+2021-12-23 13:06:04.4477 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 13:06:04.4579 Info Configuration initialized.
+2021-12-23 13:06:04.4579 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 15:24:26.0343 Info Message Template Auto Format enabled
+2021-12-23 15:24:26.0533 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 15:24:26.0907 Info Adding target FileTarget(Name=info)
+2021-12-23 15:24:26.0907 Info Adding target FileTarget(Name=detail)
+2021-12-23 15:24:26.0907 Info Adding target FileTarget(Name=error)
+2021-12-23 15:24:26.1070 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 15:24:26.1178 Info Configuration initialized.
+2021-12-23 15:24:26.1178 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 15:49:46.0290 Info Message Template Auto Format enabled
+2021-12-23 15:49:46.0487 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 15:49:46.0842 Info Adding target FileTarget(Name=info)
+2021-12-23 15:49:46.0851 Info Adding target FileTarget(Name=detail)
+2021-12-23 15:49:46.0851 Info Adding target FileTarget(Name=error)
+2021-12-23 15:49:46.1014 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 15:49:46.1014 Info Configuration initialized.
+2021-12-23 15:49:46.1014 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:03:38.1952 Info Message Template Auto Format enabled
+2021-12-23 16:03:38.2128 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:03:38.2541 Info Adding target FileTarget(Name=info)
+2021-12-23 16:03:38.2541 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:03:38.2555 Info Adding target FileTarget(Name=error)
+2021-12-23 16:03:38.2718 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:03:38.2718 Info Configuration initialized.
+2021-12-23 16:03:38.2718 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:04:38.6748 Info Message Template Auto Format enabled
+2021-12-23 16:04:38.6945 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:04:38.7311 Info Adding target FileTarget(Name=info)
+2021-12-23 16:04:38.7311 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:04:38.7311 Info Adding target FileTarget(Name=error)
+2021-12-23 16:04:38.7487 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:04:38.7684 Info Configuration initialized.
+2021-12-23 16:04:38.7684 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:05:44.3978 Info Message Template Auto Format enabled
+2021-12-23 16:05:44.4160 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:05:44.4516 Info Adding target FileTarget(Name=info)
+2021-12-23 16:05:44.4516 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:05:44.4516 Info Adding target FileTarget(Name=error)
+2021-12-23 16:05:44.4789 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:05:44.4789 Info Configuration initialized.
+2021-12-23 16:05:44.4903 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:07:28.8123 Info Message Template Auto Format enabled
+2021-12-23 16:07:28.8290 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:07:28.8686 Info Adding target FileTarget(Name=info)
+2021-12-23 16:07:28.8686 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:07:28.8686 Info Adding target FileTarget(Name=error)
+2021-12-23 16:07:28.8855 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:07:28.8980 Info Configuration initialized.
+2021-12-23 16:07:28.8980 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:10:48.9551 Info Message Template Auto Format enabled
+2021-12-23 16:10:48.9803 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:10:49.0249 Info Adding target FileTarget(Name=info)
+2021-12-23 16:10:49.0249 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:10:49.0249 Info Adding target FileTarget(Name=error)
+2021-12-23 16:10:49.0446 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:10:49.0570 Info Configuration initialized.
+2021-12-23 16:10:49.0570 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:13:32.6127 Info Message Template Auto Format enabled
+2021-12-23 16:13:32.6635 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:13:32.7057 Info Adding target FileTarget(Name=info)
+2021-12-23 16:13:32.7069 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:13:32.7069 Info Adding target FileTarget(Name=error)
+2021-12-23 16:13:32.7369 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:13:32.7499 Info Configuration initialized.
+2021-12-23 16:13:32.7499 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:14:02.5971 Info Message Template Auto Format enabled
+2021-12-23 16:14:02.6156 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:14:02.6537 Info Adding target FileTarget(Name=info)
+2021-12-23 16:14:02.6537 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:14:02.6537 Info Adding target FileTarget(Name=error)
+2021-12-23 16:14:02.6702 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:14:02.6807 Info Configuration initialized.
+2021-12-23 16:14:02.6807 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:15:09.9940 Info Message Template Auto Format enabled
+2021-12-23 16:15:10.0143 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:15:10.0529 Info Adding target FileTarget(Name=info)
+2021-12-23 16:15:10.0529 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:15:10.0529 Info Adding target FileTarget(Name=error)
+2021-12-23 16:15:10.0718 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:15:10.0834 Info Configuration initialized.
+2021-12-23 16:15:10.0834 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:20:41.3059 Info Message Template Auto Format enabled
+2021-12-23 16:20:41.3227 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:20:41.3590 Info Adding target FileTarget(Name=info)
+2021-12-23 16:20:41.3590 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:20:41.3590 Info Adding target FileTarget(Name=error)
+2021-12-23 16:20:41.3764 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:20:41.3764 Info Configuration initialized.
+2021-12-23 16:20:41.3764 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-23 16:24:39.1718 Info Message Template Auto Format enabled
+2021-12-23 16:24:39.1951 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-23 16:24:39.2462 Info Adding target FileTarget(Name=info)
+2021-12-23 16:24:39.2569 Info Adding target FileTarget(Name=detail)
+2021-12-23 16:24:39.2569 Info Adding target FileTarget(Name=error)
+2021-12-23 16:24:39.2785 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-23 16:24:39.2954 Info Configuration initialized.
+2021-12-23 16:24:39.2954 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-24 12:09:56.6278 Info Message Template Auto Format enabled
+2021-12-24 12:09:56.6602 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 12:09:56.7088 Info Adding target FileTarget(Name=info)
+2021-12-24 12:09:56.7088 Info Adding target FileTarget(Name=detail)
+2021-12-24 12:09:56.7088 Info Adding target FileTarget(Name=error)
+2021-12-24 12:09:56.7294 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 12:09:56.7438 Info Configuration initialized.
+2021-12-24 12:09:56.7438 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-24 14:40:13.3490 Info Message Template Auto Format enabled
+2021-12-24 14:40:13.3609 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 14:40:13.4144 Info Adding target FileTarget(Name=info)
+2021-12-24 14:40:13.4144 Info Adding target FileTarget(Name=detail)
+2021-12-24 14:40:13.4144 Info Adding target FileTarget(Name=error)
+2021-12-24 14:40:13.4326 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 14:40:13.4441 Info Configuration initialized.
+2021-12-24 14:40:13.4441 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-24 14:41:14.4804 Info Message Template Auto Format enabled
+2021-12-24 14:41:14.4978 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 14:41:14.5368 Info Adding target FileTarget(Name=info)
+2021-12-24 14:41:14.5368 Info Adding target FileTarget(Name=detail)
+2021-12-24 14:41:14.5368 Info Adding target FileTarget(Name=error)
+2021-12-24 14:41:14.5544 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 14:41:14.5671 Info Configuration initialized.
+2021-12-24 14:41:14.5671 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-24 14:45:33.1754 Info Message Template Auto Format enabled
+2021-12-24 14:45:33.1965 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 14:45:33.2408 Info Adding target FileTarget(Name=info)
+2021-12-24 14:45:33.2408 Info Adding target FileTarget(Name=detail)
+2021-12-24 14:45:33.2408 Info Adding target FileTarget(Name=error)
+2021-12-24 14:45:33.2598 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 14:45:33.2706 Info Configuration initialized.
+2021-12-24 14:45:33.2706 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-24 14:56:52.0009 Info Message Template Auto Format enabled
+2021-12-24 14:56:52.0218 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 14:56:52.0616 Info Adding target FileTarget(Name=info)
+2021-12-24 14:56:52.0625 Info Adding target FileTarget(Name=detail)
+2021-12-24 14:56:52.0625 Info Adding target FileTarget(Name=error)
+2021-12-24 14:56:52.0806 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 14:56:52.0806 Info Configuration initialized.
+2021-12-24 14:56:52.0806 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+<<<<<<< HEAD
+2021-12-24 17:58:04.7619 Info Message Template Auto Format enabled
+2021-12-24 17:58:04.7737 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-24 17:58:04.7990 Info Adding target FileTarget(Name=info)
+2021-12-24 17:58:04.7990 Info Adding target FileTarget(Name=detail)
+2021-12-24 17:58:04.7990 Info Adding target FileTarget(Name=error)
+2021-12-24 17:58:04.8128 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-24 17:58:04.8128 Info Configuration initialized.
+2021-12-24 17:58:04.8128 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+=======
+>>>>>>> 29115ed2d4b60be4e9198d9296d8c382880a41ed
+2021-12-25 14:47:02.1114 Info Message Template Auto Format enabled
+2021-12-25 14:47:02.1436 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 14:47:02.1821 Info Adding target FileTarget(Name=info)
+2021-12-25 14:47:02.1821 Info Adding target FileTarget(Name=detail)
+2021-12-25 14:47:02.1821 Info Adding target FileTarget(Name=error)
+2021-12-25 14:47:02.1996 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 14:47:02.2125 Info Configuration initialized.
+2021-12-25 14:47:02.2125 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:41:03.3204 Info Message Template Auto Format enabled
+2021-12-25 16:41:03.3481 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:41:03.3777 Info Adding target FileTarget(Name=info)
+2021-12-25 16:41:03.3777 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:41:03.3777 Info Adding target FileTarget(Name=error)
+2021-12-25 16:41:03.3975 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:41:03.4147 Info Configuration initialized.
+2021-12-25 16:41:03.4147 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:48:27.6230 Info Message Template Auto Format enabled
+2021-12-25 16:48:27.6404 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:48:27.6802 Info Adding target FileTarget(Name=info)
+2021-12-25 16:48:27.6802 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:48:27.6802 Info Adding target FileTarget(Name=error)
+2021-12-25 16:48:27.6982 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:48:27.7110 Info Configuration initialized.
+2021-12-25 16:48:27.7110 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:49:41.1160 Info Message Template Auto Format enabled
+2021-12-25 16:49:41.1380 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:49:41.1790 Info Adding target FileTarget(Name=info)
+2021-12-25 16:49:41.1790 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:49:41.1790 Info Adding target FileTarget(Name=error)
+2021-12-25 16:49:41.2015 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:49:41.2162 Info Configuration initialized.
+2021-12-25 16:49:41.2162 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:51:24.9809 Info Message Template Auto Format enabled
+2021-12-25 16:51:25.0014 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:51:25.0444 Info Adding target FileTarget(Name=info)
+2021-12-25 16:51:25.0444 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:51:25.0444 Info Adding target FileTarget(Name=error)
+2021-12-25 16:51:25.0632 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:51:25.0774 Info Configuration initialized.
+2021-12-25 16:51:25.0774 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:52:22.2477 Info Message Template Auto Format enabled
+2021-12-25 16:52:22.2799 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:52:22.3159 Info Adding target FileTarget(Name=info)
+2021-12-25 16:52:22.3159 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:52:22.3173 Info Adding target FileTarget(Name=error)
+2021-12-25 16:52:22.3336 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:52:22.3336 Info Configuration initialized.
+2021-12-25 16:52:22.3485 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:53:05.9268 Info Message Template Auto Format enabled
+2021-12-25 16:53:05.9491 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:53:05.9875 Info Adding target FileTarget(Name=info)
+2021-12-25 16:53:05.9888 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:53:05.9888 Info Adding target FileTarget(Name=error)
+2021-12-25 16:53:06.0054 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:53:06.0054 Info Configuration initialized.
+2021-12-25 16:53:06.0054 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:54:33.4238 Info Message Template Auto Format enabled
+2021-12-25 16:54:33.4429 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:54:33.4793 Info Adding target FileTarget(Name=info)
+2021-12-25 16:54:33.4793 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:54:33.4793 Info Adding target FileTarget(Name=error)
+2021-12-25 16:54:33.4959 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:54:33.5076 Info Configuration initialized.
+2021-12-25 16:54:33.5076 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 16:55:21.2238 Info Message Template Auto Format enabled
+2021-12-25 16:55:21.2422 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 16:55:21.2771 Info Adding target FileTarget(Name=info)
+2021-12-25 16:55:21.2771 Info Adding target FileTarget(Name=detail)
+2021-12-25 16:55:21.2771 Info Adding target FileTarget(Name=error)
+2021-12-25 16:55:21.2958 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 16:55:21.3060 Info Configuration initialized.
+2021-12-25 16:55:21.3060 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:03:13.7894 Info Message Template Auto Format enabled
+2021-12-25 17:03:13.8063 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:03:13.8404 Info Adding target FileTarget(Name=info)
+2021-12-25 17:03:13.8404 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:03:13.8404 Info Adding target FileTarget(Name=error)
+2021-12-25 17:03:13.8564 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:03:13.8672 Info Configuration initialized.
+2021-12-25 17:03:13.8672 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:07:20.9873 Info Message Template Auto Format enabled
+2021-12-25 17:07:21.0122 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:07:21.0514 Info Adding target FileTarget(Name=info)
+2021-12-25 17:07:21.0514 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:07:21.0514 Info Adding target FileTarget(Name=error)
+2021-12-25 17:07:21.0704 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:07:21.0704 Info Configuration initialized.
+2021-12-25 17:07:21.0826 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:08:26.3853 Info Message Template Auto Format enabled
+2021-12-25 17:08:26.4030 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:08:26.4422 Info Adding target FileTarget(Name=info)
+2021-12-25 17:08:26.4422 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:08:26.4422 Info Adding target FileTarget(Name=error)
+2021-12-25 17:08:26.4588 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:08:26.4588 Info Configuration initialized.
+2021-12-25 17:08:26.4588 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:09:18.1549 Info Message Template Auto Format enabled
+2021-12-25 17:09:18.1795 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:09:18.2195 Info Adding target FileTarget(Name=info)
+2021-12-25 17:09:18.2195 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:09:18.2195 Info Adding target FileTarget(Name=error)
+2021-12-25 17:09:18.2374 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:09:18.2489 Info Configuration initialized.
+2021-12-25 17:09:18.2489 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:11:49.1790 Info Message Template Auto Format enabled
+2021-12-25 17:11:49.1971 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:11:49.2314 Info Adding target FileTarget(Name=info)
+2021-12-25 17:11:49.2412 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:11:49.2412 Info Adding target FileTarget(Name=error)
+2021-12-25 17:11:49.2608 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:11:49.2777 Info Configuration initialized.
+2021-12-25 17:11:49.2777 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:14:48.3007 Info Message Template Auto Format enabled
+2021-12-25 17:14:48.3186 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:14:48.3549 Info Adding target FileTarget(Name=info)
+2021-12-25 17:14:48.3549 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:14:48.3549 Info Adding target FileTarget(Name=error)
+2021-12-25 17:14:48.3712 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:14:48.3935 Info Configuration initialized.
+2021-12-25 17:14:48.3942 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:16:05.3388 Info Message Template Auto Format enabled
+2021-12-25 17:16:05.6757 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:16:05.7158 Info Adding target FileTarget(Name=info)
+2021-12-25 17:16:05.7158 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:16:05.7158 Info Adding target FileTarget(Name=error)
+2021-12-25 17:16:05.7347 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-25 17:16:05.7460 Info Configuration initialized.
+2021-12-25 17:16:05.7460 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:38:03.5983 Info Message Template Auto Format enabled
+2021-12-25 17:38:03.6164 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:38:03.6547 Info Adding target FileTarget(Name=info)
+2021-12-25 17:38:03.6547 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:38:03.6547 Info Adding target FileTarget(Name=error)
+2021-12-25 17:38:03.6724 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:38:03.6836 Info Configuration initialized.
+2021-12-25 17:38:03.6836 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:47:08.9174 Info Message Template Auto Format enabled
+2021-12-25 17:47:08.9361 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:47:08.9723 Info Adding target FileTarget(Name=info)
+2021-12-25 17:47:08.9723 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:47:08.9723 Info Adding target FileTarget(Name=error)
+2021-12-25 17:47:08.9890 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:47:08.9890 Info Configuration initialized.
+2021-12-25 17:47:08.9890 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:48:51.0859 Info Message Template Auto Format enabled
+2021-12-25 17:48:51.1064 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:48:51.1454 Info Adding target FileTarget(Name=info)
+2021-12-25 17:48:51.1454 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:48:51.1454 Info Adding target FileTarget(Name=error)
+2021-12-25 17:48:51.1646 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:48:51.1764 Info Configuration initialized.
+2021-12-25 17:48:51.1764 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:52:52.7535 Info Message Template Auto Format enabled
+2021-12-25 17:52:52.7719 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:52:52.8095 Info Adding target FileTarget(Name=info)
+2021-12-25 17:52:52.8095 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:52:52.8095 Info Adding target FileTarget(Name=error)
+2021-12-25 17:52:52.8260 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:52:52.8459 Info Configuration initialized.
+2021-12-25 17:52:52.8459 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:53:41.0237 Info Message Template Auto Format enabled
+2021-12-25 17:53:41.0434 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:53:41.0818 Info Adding target FileTarget(Name=info)
+2021-12-25 17:53:41.0818 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:53:41.0818 Info Adding target FileTarget(Name=error)
+2021-12-25 17:53:41.0994 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:53:41.1102 Info Configuration initialized.
+2021-12-25 17:53:41.1102 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:54:42.2065 Info Message Template Auto Format enabled
+2021-12-25 17:54:42.2248 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:54:42.2630 Info Adding target FileTarget(Name=info)
+2021-12-25 17:54:42.2630 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:54:42.2630 Info Adding target FileTarget(Name=error)
+2021-12-25 17:54:42.2803 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:54:42.2928 Info Configuration initialized.
+2021-12-25 17:54:42.2928 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:56:45.2213 Info Message Template Auto Format enabled
+2021-12-25 17:56:45.2465 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:56:45.2852 Info Adding target FileTarget(Name=info)
+2021-12-25 17:56:45.2852 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:56:45.2852 Info Adding target FileTarget(Name=error)
+2021-12-25 17:56:45.3028 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:56:45.3028 Info Configuration initialized.
+2021-12-25 17:56:45.3028 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 17:58:34.9099 Info Message Template Auto Format enabled
+2021-12-25 17:58:34.9299 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 17:58:34.9601 Info Adding target FileTarget(Name=info)
+2021-12-25 17:58:34.9601 Info Adding target FileTarget(Name=detail)
+2021-12-25 17:58:34.9601 Info Adding target FileTarget(Name=error)
+2021-12-25 17:58:34.9763 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 17:58:34.9883 Info Configuration initialized.
+2021-12-25 17:58:34.9883 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:01:17.8265 Info Message Template Auto Format enabled
+2021-12-25 18:01:17.8451 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:01:17.8837 Info Adding target FileTarget(Name=info)
+2021-12-25 18:01:17.8837 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:01:17.8837 Info Adding target FileTarget(Name=error)
+2021-12-25 18:01:17.9006 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:01:17.9124 Info Configuration initialized.
+2021-12-25 18:01:17.9124 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:02:22.1575 Info Message Template Auto Format enabled
+2021-12-25 18:02:22.1913 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:02:22.2356 Info Adding target FileTarget(Name=info)
+2021-12-25 18:02:22.2356 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:02:22.2356 Info Adding target FileTarget(Name=error)
+2021-12-25 18:02:22.2623 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:02:22.2623 Info Configuration initialized.
+2021-12-25 18:02:22.2623 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:04:55.1073 Info Message Template Auto Format enabled
+2021-12-25 18:04:55.1259 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:04:55.1623 Info Adding target FileTarget(Name=info)
+2021-12-25 18:04:55.1623 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:04:55.1623 Info Adding target FileTarget(Name=error)
+2021-12-25 18:04:55.1798 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:04:55.1909 Info Configuration initialized.
+2021-12-25 18:04:55.1909 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:09:25.7863 Info Message Template Auto Format enabled
+2021-12-25 18:09:25.8046 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:09:25.8421 Info Adding target FileTarget(Name=info)
+2021-12-25 18:09:25.8421 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:09:25.8421 Info Adding target FileTarget(Name=error)
+2021-12-25 18:09:25.8591 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:09:25.8701 Info Configuration initialized.
+2021-12-25 18:09:25.8701 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:11:23.3945 Info Message Template Auto Format enabled
+2021-12-25 18:11:23.4193 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:11:23.4477 Info Adding target FileTarget(Name=info)
+2021-12-25 18:11:23.4477 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:11:23.4477 Info Adding target FileTarget(Name=error)
+2021-12-25 18:11:23.4643 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:11:23.4749 Info Configuration initialized.
+2021-12-25 18:11:23.4749 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:14:21.6599 Info Message Template Auto Format enabled
+2021-12-25 18:14:21.6801 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:14:21.7227 Info Adding target FileTarget(Name=info)
+2021-12-25 18:14:21.7227 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:14:21.7227 Info Adding target FileTarget(Name=error)
+2021-12-25 18:14:21.7399 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:14:21.7399 Info Configuration initialized.
+2021-12-25 18:14:21.7399 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:50:04.6488 Info Message Template Auto Format enabled
+2021-12-25 18:50:04.6671 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:50:04.7033 Info Adding target FileTarget(Name=info)
+2021-12-25 18:50:04.7033 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:50:04.7033 Info Adding target FileTarget(Name=error)
+2021-12-25 18:50:04.7208 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:50:04.7321 Info Configuration initialized.
+2021-12-25 18:50:04.7321 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-25 18:51:20.4085 Info Message Template Auto Format enabled
+2021-12-25 18:51:20.4291 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-25 18:51:20.4650 Info Adding target FileTarget(Name=info)
+2021-12-25 18:51:20.4658 Info Adding target FileTarget(Name=detail)
+2021-12-25 18:51:20.4658 Info Adding target FileTarget(Name=error)
+2021-12-25 18:51:20.4809 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-25 18:51:20.5010 Info Configuration initialized.
+2021-12-25 18:51:20.5010 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:39:19.8503 Info Message Template Auto Format enabled
+2021-12-27 17:39:19.8703 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:39:19.9112 Info Adding target FileTarget(Name=info)
+2021-12-27 17:39:19.9112 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:39:19.9112 Info Adding target FileTarget(Name=error)
+2021-12-27 17:39:19.9376 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:39:19.9566 Info Configuration initialized.
+2021-12-27 17:39:19.9566 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:40:22.8381 Info Message Template Auto Format enabled
+2021-12-27 17:40:22.8561 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:40:22.8935 Info Adding target FileTarget(Name=info)
+2021-12-27 17:40:22.8935 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:40:22.8935 Info Adding target FileTarget(Name=error)
+2021-12-27 17:40:22.9107 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:40:22.9216 Info Configuration initialized.
+2021-12-27 17:40:22.9216 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:41:26.1957 Info Message Template Auto Format enabled
+2021-12-27 17:41:26.2161 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:41:26.2577 Info Adding target FileTarget(Name=info)
+2021-12-27 17:41:26.2577 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:41:26.2577 Info Adding target FileTarget(Name=error)
+2021-12-27 17:41:26.2784 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:41:26.2784 Info Configuration initialized.
+2021-12-27 17:41:26.2784 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:45:28.7836 Info Message Template Auto Format enabled
+2021-12-27 17:45:28.8235 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:45:28.8659 Info Adding target FileTarget(Name=info)
+2021-12-27 17:45:28.8659 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:45:28.8659 Info Adding target FileTarget(Name=error)
+2021-12-27 17:45:28.8852 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:45:28.8966 Info Configuration initialized.
+2021-12-27 17:45:28.8966 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:49:50.8519 Info Message Template Auto Format enabled
+2021-12-27 17:49:50.8714 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:49:50.9063 Info Adding target FileTarget(Name=info)
+2021-12-27 17:49:50.9063 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:49:50.9063 Info Adding target FileTarget(Name=error)
+2021-12-27 17:49:50.9236 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:49:50.9343 Info Configuration initialized.
+2021-12-27 17:49:50.9343 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:50:57.9341 Info Message Template Auto Format enabled
+2021-12-27 17:50:57.9669 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:50:58.0146 Info Adding target FileTarget(Name=info)
+2021-12-27 17:50:58.0146 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:50:58.0146 Info Adding target FileTarget(Name=error)
+2021-12-27 17:50:58.0336 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:50:58.0503 Info Configuration initialized.
+2021-12-27 17:50:58.0503 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-27 17:56:19.7259 Info Message Template Auto Format enabled
+2021-12-27 17:56:19.7485 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-27 17:56:19.7921 Info Adding target FileTarget(Name=info)
+2021-12-27 17:56:19.7921 Info Adding target FileTarget(Name=detail)
+2021-12-27 17:56:19.7921 Info Adding target FileTarget(Name=error)
+2021-12-27 17:56:19.8114 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Release\net5.0\NLog.config
+2021-12-27 17:56:19.8254 Info Configuration initialized.
+2021-12-27 17:56:19.8254 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2021-12-30 17:15:41.0265 Info Message Template Auto Format enabled
+2021-12-30 17:15:41.0495 Info Loading assembly: NLog.Web.AspNetCore
+2021-12-30 17:15:41.0974 Info Adding target FileTarget(Name=info)
+2021-12-30 17:15:41.0974 Info Adding target FileTarget(Name=detail)
+2021-12-30 17:15:41.0974 Info Adding target FileTarget(Name=error)
+2021-12-30 17:15:41.1282 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\programmer 1\source\repos\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2021-12-30 17:15:41.1425 Info Configuration initialized.
+2021-12-30 17:15:41.1425 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 15:53:18.2703 Info Message Template Auto Format enabled
+2022-01-12 15:53:18.2844 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 15:53:18.3140 Info Adding target FileTarget(Name=info)
+2022-01-12 15:53:18.3140 Info Adding target FileTarget(Name=detail)
+2022-01-12 15:53:18.3140 Info Adding target FileTarget(Name=error)
+2022-01-12 15:53:18.3285 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 15:53:18.3375 Info Configuration initialized.
+2022-01-12 15:53:18.3375 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 15:54:12.0593 Info Message Template Auto Format enabled
+2022-01-12 15:54:12.0744 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 15:54:12.1138 Info Adding target FileTarget(Name=info)
+2022-01-12 15:54:12.1138 Info Adding target FileTarget(Name=detail)
+2022-01-12 15:54:12.1138 Info Adding target FileTarget(Name=error)
+2022-01-12 15:54:12.1314 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 15:54:12.1426 Info Configuration initialized.
+2022-01-12 15:54:12.1426 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 17:01:12.6636 Info Message Template Auto Format enabled
+2022-01-12 17:01:12.6735 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 17:01:12.6964 Info Adding target FileTarget(Name=info)
+2022-01-12 17:01:12.6964 Info Adding target FileTarget(Name=detail)
+2022-01-12 17:01:12.6964 Info Adding target FileTarget(Name=error)
+2022-01-12 17:01:12.6964 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 17:01:12.7180 Info Configuration initialized.
+2022-01-12 17:01:12.7180 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 17:01:43.8226 Info Message Template Auto Format enabled
+2022-01-12 17:01:43.8371 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 17:01:43.8712 Info Adding target FileTarget(Name=info)
+2022-01-12 17:01:43.8712 Info Adding target FileTarget(Name=detail)
+2022-01-12 17:01:43.8712 Info Adding target FileTarget(Name=error)
+2022-01-12 17:01:43.8962 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 17:01:43.9070 Info Configuration initialized.
+2022-01-12 17:01:43.9070 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 17:29:05.0623 Info Message Template Auto Format enabled
+2022-01-12 17:29:05.0726 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 17:29:05.1019 Info Adding target FileTarget(Name=info)
+2022-01-12 17:29:05.1019 Info Adding target FileTarget(Name=detail)
+2022-01-12 17:29:05.1019 Info Adding target FileTarget(Name=error)
+2022-01-12 17:29:05.1197 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 17:29:05.1197 Info Configuration initialized.
+2022-01-12 17:29:05.1328 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 17:29:32.1450 Info Message Template Auto Format enabled
+2022-01-12 17:29:32.1617 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 17:29:32.1976 Info Adding target FileTarget(Name=info)
+2022-01-12 17:29:32.1976 Info Adding target FileTarget(Name=detail)
+2022-01-12 17:29:32.1976 Info Adding target FileTarget(Name=error)
+2022-01-12 17:29:32.2214 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 17:29:32.2343 Info Configuration initialized.
+2022-01-12 17:29:32.2343 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 17:30:09.4246 Info Message Template Auto Format enabled
+2022-01-12 17:30:09.4353 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 17:30:09.4592 Info Adding target FileTarget(Name=info)
+2022-01-12 17:30:09.4592 Info Adding target FileTarget(Name=detail)
+2022-01-12 17:30:09.4592 Info Adding target FileTarget(Name=error)
+2022-01-12 17:30:09.4741 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 17:30:09.4834 Info Configuration initialized.
+2022-01-12 17:30:09.4834 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 18:37:49.4677 Info Message Template Auto Format enabled
+2022-01-12 18:37:49.4812 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 18:37:49.5116 Info Adding target FileTarget(Name=info)
+2022-01-12 18:37:49.5116 Info Adding target FileTarget(Name=detail)
+2022-01-12 18:37:49.5116 Info Adding target FileTarget(Name=error)
+2022-01-12 18:37:49.5313 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 18:37:49.5481 Info Configuration initialized.
+2022-01-12 18:37:49.5481 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 18:39:19.4792 Info Message Template Auto Format enabled
+2022-01-12 18:39:19.4792 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 18:39:19.5262 Info Adding target FileTarget(Name=info)
+2022-01-12 18:39:19.5262 Info Adding target FileTarget(Name=detail)
+2022-01-12 18:39:19.5262 Info Adding target FileTarget(Name=error)
+2022-01-12 18:39:19.5430 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 18:39:19.5548 Info Configuration initialized.
+2022-01-12 18:39:19.5548 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
+2022-01-12 18:39:44.8263 Info Message Template Auto Format enabled
+2022-01-12 18:39:44.8423 Info Loading assembly: NLog.Web.AspNetCore
+2022-01-12 18:39:44.8819 Info Adding target FileTarget(Name=info)
+2022-01-12 18:39:44.8833 Info Adding target FileTarget(Name=detail)
+2022-01-12 18:39:44.8833 Info Adding target FileTarget(Name=error)
+2022-01-12 18:39:44.9052 Info Validating config: TargetNames=detail, info, error, ConfigItems=64, FilePath=C:\Users\pedram\source\repos\KiaRealState\KiaRealEstateAutomation\WebApi\bin\Debug\net5.0\NLog.config
+2022-01-12 18:39:44.9169 Info Configuration initialized.
+2022-01-12 18:39:44.9169 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.12.301. Product version: 4.7.12+1c2aa4e3677a17a65b73beee5881e8b8e1b7fc18. GlobalAssemblyCache: False
