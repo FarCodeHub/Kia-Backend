@@ -1,4 +1,4 @@
-# .Net Core 5 Project 
+# .Net Core 5 Project [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_Kia-Backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_Kia-Backend) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=FarCodeHub_Kia-Backend&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=FarCodeHub_Kia-Backend) 
 
 This project was generated with [.Net Core 5](https://github.com/topics/dotnetcore)
 
