@@ -46,7 +46,3 @@ also sql server is our primary data base.
 ![2022-03-09_22-20-43](https://user-images.githubusercontent.com/29880255/157511283-fc5d8993-05cf-4139-aeed-c1ef685d2501.png)
 
  
-
-# More Info
-for more information call me 09137495245
- 
